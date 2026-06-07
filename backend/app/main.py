@@ -10,6 +10,7 @@ from app.api.routes import analytics, auth, chat, documents, fine_tuning, health
 from app.core.config import settings
 from app.db.session import init_db
 from app.services.agents.graph import warm_agent_workflow
+from app.services.rag.embeddings import get_embedding_model
 
 
 def create_app() -> FastAPI:
@@ -35,6 +36,7 @@ def create_app() -> FastAPI:
     def prewarm_agents() -> None:
         init_db()
         warm_agent_workflow()
+        get_embedding_model()  # pre-load model so first chat request doesn't timeout
 
     @app.middleware("http")
     async def add_process_time_header(request: Request, call_next):
