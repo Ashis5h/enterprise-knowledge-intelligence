@@ -1,0 +1,10 @@
+Slide 1: title and system identity.
+Slide 2: problem, objective, and differentiator.
+Slide 3: high-level architecture from React to agents to vector DB and enterprise documents.
+Slide 4: document ingestion and RAG pipeline.
+Slide 5: multi-agent workflow.
+Slide 6: evaluation dashboard and metrics.
+Slide 7: fine-tuning and QLoRA pipeline.
+Slide 8: security, metadata, and governance.
+Slide 9: Docker and AWS deployment path.
+Slide 10: current status and next roadmap.

@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "filename": "001_enterprise_leave_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\001_enterprise_leave_policy_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Leave Policy V1"
+  },
+  {
+    "id": 2,
+    "filename": "002_enterprise_employee_handbook_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\002_enterprise_employee_handbook_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Employee Handbook V1"
+  },
+  {
+    "id": 3,
+    "filename": "003_enterprise_remote_work_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\003_enterprise_remote_work_policy_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Remote Work Policy V1"
+  },
+  {
+    "id": 4,
+    "filename": "004_enterprise_code_of_conduct_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\004_enterprise_code_of_conduct_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Code of Conduct V1"
+  },
+  {
+    "id": 5,
+    "filename": "005_enterprise_performance_review_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\005_enterprise_performance_review_policy_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Performance Review Policy V1"
+  },
+  {
+    "id": 6,
+    "filename": "006_enterprise_onboarding_guide_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\006_enterprise_onboarding_guide_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Onboarding Guide V1"
+  },
+  {
+    "id": 7,
+    "filename": "007_enterprise_training_completion_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\007_enterprise_training_completion_policy_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Training Completion Policy V1"
+  },
+  {
+    "id": 8,
+    "filename": "008_enterprise_travel_and_attendance_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\008_enterprise_travel_and_attendance_policy_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Travel and Attendance Policy V1"
+  },
+  {
+    "id": 9,
+    "filename": "009_enterprise_benefits_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\009_enterprise_benefits_policy_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Benefits Policy V1"
+  },
+  {
+    "id": 10,
+    "filename": "010_enterprise_workplace_conduct_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\hr\\010_enterprise_workplace_conduct_sop_v1.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Workplace Conduct SOP V1"
+  },
+  {
+    "id": 11,
+    "filename": "011_enterprise_leave_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\011_enterprise_leave_policy_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Leave Policy V2"
+  },
+  {
+    "id": 12,
+    "filename": "012_enterprise_employee_handbook_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\012_enterprise_employee_handbook_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Employee Handbook V2"
+  },
+  {
+    "id": 13,
+    "filename": "013_enterprise_remote_work_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\013_enterprise_remote_work_policy_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Remote Work Policy V2"
+  },
+  {
+    "id": 14,
+    "filename": "014_enterprise_code_of_conduct_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\014_enterprise_code_of_conduct_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Code of Conduct V2"
+  },
+  {
+    "id": 15,
+    "filename": "015_enterprise_performance_review_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\015_enterprise_performance_review_policy_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Performance Review Policy V2"
+  },
+  {
+    "id": 16,
+    "filename": "016_enterprise_onboarding_guide_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\016_enterprise_onboarding_guide_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Onboarding Guide V2"
+  },
+  {
+    "id": 17,
+    "filename": "017_enterprise_training_completion_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\017_enterprise_training_completion_policy_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Training Completion Policy V2"
+  },
+  {
+    "id": 18,
+    "filename": "018_enterprise_travel_and_attendance_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\018_enterprise_travel_and_attendance_policy_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Travel and Attendance Policy V2"
+  },
+  {
+    "id": 19,
+    "filename": "019_enterprise_benefits_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\019_enterprise_benefits_policy_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Benefits Policy V2"
+  },
+  {
+    "id": 20,
+    "filename": "020_enterprise_workplace_conduct_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\hr\\020_enterprise_workplace_conduct_sop_v2.pdf",
+    "department": "HR",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Workplace Conduct SOP V2"
+  },
+  {
+    "id": 21,
+    "filename": "021_enterprise_it_support_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\021_enterprise_it_support_sop_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise IT Support SOP V1"
+  },
+  {
+    "id": 22,
+    "filename": "022_enterprise_incident_escalation_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\022_enterprise_incident_escalation_sop_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Incident Escalation SOP V1"
+  },
+  {
+    "id": 23,
+    "filename": "023_enterprise_laptop_provisioning_guide_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\023_enterprise_laptop_provisioning_guide_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Laptop Provisioning Guide V1"
+  },
+  {
+    "id": 24,
+    "filename": "024_enterprise_password_reset_procedure_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\024_enterprise_password_reset_procedure_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Password Reset Procedure V1"
+  },
+  {
+    "id": 25,
+    "filename": "025_enterprise_service_desk_workflow_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\025_enterprise_service_desk_workflow_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Service Desk Workflow V1"
+  },
+  {
+    "id": 26,
+    "filename": "026_enterprise_backup_restoration_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\026_enterprise_backup_restoration_sop_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Backup Restoration SOP V1"
+  },
+  {
+    "id": 27,
+    "filename": "027_enterprise_vpn_access_guide_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\027_enterprise_vpn_access_guide_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise VPN Access Guide V1"
+  },
+  {
+    "id": 28,
+    "filename": "028_enterprise_software_installation_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\028_enterprise_software_installation_policy_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Software Installation Policy V1"
+  },
+  {
+    "id": 29,
+    "filename": "029_enterprise_asset_management_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\029_enterprise_asset_management_sop_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Asset Management SOP V1"
+  },
+  {
+    "id": 30,
+    "filename": "030_enterprise_change_management_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\it\\030_enterprise_change_management_sop_v1.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Change Management SOP V1"
+  },
+  {
+    "id": 31,
+    "filename": "031_enterprise_it_support_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\031_enterprise_it_support_sop_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise IT Support SOP V2"
+  },
+  {
+    "id": 32,
+    "filename": "032_enterprise_incident_escalation_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\032_enterprise_incident_escalation_sop_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Incident Escalation SOP V2"
+  },
+  {
+    "id": 33,
+    "filename": "033_enterprise_laptop_provisioning_guide_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\033_enterprise_laptop_provisioning_guide_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Laptop Provisioning Guide V2"
+  },
+  {
+    "id": 34,
+    "filename": "034_enterprise_password_reset_procedure_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\034_enterprise_password_reset_procedure_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Password Reset Procedure V2"
+  },
+  {
+    "id": 35,
+    "filename": "035_enterprise_service_desk_workflow_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\035_enterprise_service_desk_workflow_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Service Desk Workflow V2"
+  },
+  {
+    "id": 36,
+    "filename": "036_enterprise_backup_restoration_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\036_enterprise_backup_restoration_sop_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Backup Restoration SOP V2"
+  },
+  {
+    "id": 37,
+    "filename": "037_enterprise_vpn_access_guide_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\037_enterprise_vpn_access_guide_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise VPN Access Guide V2"
+  },
+  {
+    "id": 38,
+    "filename": "038_enterprise_software_installation_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\038_enterprise_software_installation_policy_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Software Installation Policy V2"
+  },
+  {
+    "id": 39,
+    "filename": "039_enterprise_asset_management_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\039_enterprise_asset_management_sop_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Asset Management SOP V2"
+  },
+  {
+    "id": 40,
+    "filename": "040_enterprise_change_management_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\it\\040_enterprise_change_management_sop_v2.pdf",
+    "department": "IT",
+    "document_type": "SOP",
+    "access_level": "internal",
+    "title": "Enterprise Change Management SOP V2"
+  },
+  {
+    "id": 41,
+    "filename": "041_enterprise_security_guidelines_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\041_enterprise_security_guidelines_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Security Guidelines V1"
+  },
+  {
+    "id": 42,
+    "filename": "042_enterprise_phishing_response_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\042_enterprise_phishing_response_policy_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Phishing Response Policy V1"
+  },
+  {
+    "id": 43,
+    "filename": "043_enterprise_mfa_enforcement_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\043_enterprise_mfa_enforcement_policy_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise MFA Enforcement Policy V1"
+  },
+  {
+    "id": 44,
+    "filename": "044_enterprise_data_classification_standard_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\044_enterprise_data_classification_standard_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Data Classification Standard V1"
+  },
+  {
+    "id": 45,
+    "filename": "045_enterprise_access_review_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\045_enterprise_access_review_sop_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Access Review SOP V1"
+  },
+  {
+    "id": 46,
+    "filename": "046_enterprise_device_security_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\046_enterprise_device_security_policy_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Device Security Policy V1"
+  },
+  {
+    "id": 47,
+    "filename": "047_enterprise_confidential_data_handling_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\047_enterprise_confidential_data_handling_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Confidential Data Handling V1"
+  },
+  {
+    "id": 48,
+    "filename": "048_enterprise_vendor_security_checklist_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\048_enterprise_vendor_security_checklist_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Vendor Security Checklist V1"
+  },
+  {
+    "id": 49,
+    "filename": "049_enterprise_incident_reporting_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\049_enterprise_incident_reporting_policy_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Incident Reporting Policy V1"
+  },
+  {
+    "id": 50,
+    "filename": "050_enterprise_usb_access_standard_v1.pdf",
+    "path": "data\\enterprise_dataset\\security\\050_enterprise_usb_access_standard_v1.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise USB Access Standard V1"
+  },
+  {
+    "id": 51,
+    "filename": "051_enterprise_security_guidelines_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\051_enterprise_security_guidelines_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Security Guidelines V2"
+  },
+  {
+    "id": 52,
+    "filename": "052_enterprise_phishing_response_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\052_enterprise_phishing_response_policy_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Phishing Response Policy V2"
+  },
+  {
+    "id": 53,
+    "filename": "053_enterprise_mfa_enforcement_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\053_enterprise_mfa_enforcement_policy_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise MFA Enforcement Policy V2"
+  },
+  {
+    "id": 54,
+    "filename": "054_enterprise_data_classification_standard_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\054_enterprise_data_classification_standard_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Data Classification Standard V2"
+  },
+  {
+    "id": 55,
+    "filename": "055_enterprise_access_review_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\055_enterprise_access_review_sop_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Access Review SOP V2"
+  },
+  {
+    "id": 56,
+    "filename": "056_enterprise_device_security_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\056_enterprise_device_security_policy_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Device Security Policy V2"
+  },
+  {
+    "id": 57,
+    "filename": "057_enterprise_confidential_data_handling_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\057_enterprise_confidential_data_handling_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Confidential Data Handling V2"
+  },
+  {
+    "id": 58,
+    "filename": "058_enterprise_vendor_security_checklist_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\058_enterprise_vendor_security_checklist_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Vendor Security Checklist V2"
+  },
+  {
+    "id": 59,
+    "filename": "059_enterprise_incident_reporting_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\059_enterprise_incident_reporting_policy_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise Incident Reporting Policy V2"
+  },
+  {
+    "id": 60,
+    "filename": "060_enterprise_usb_access_standard_v2.pdf",
+    "path": "data\\enterprise_dataset\\security\\060_enterprise_usb_access_standard_v2.pdf",
+    "department": "Security",
+    "document_type": "Policy",
+    "access_level": "restricted",
+    "title": "Enterprise USB Access Standard V2"
+  },
+  {
+    "id": 61,
+    "filename": "061_enterprise_expense_reimbursement_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\061_enterprise_expense_reimbursement_policy_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Expense Reimbursement Policy V1"
+  },
+  {
+    "id": 62,
+    "filename": "062_enterprise_vendor_payment_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\062_enterprise_vendor_payment_sop_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Vendor Payment SOP V1"
+  },
+  {
+    "id": 63,
+    "filename": "063_enterprise_invoice_approval_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\063_enterprise_invoice_approval_policy_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Invoice Approval Policy V1"
+  },
+  {
+    "id": 64,
+    "filename": "064_enterprise_travel_reimbursement_guide_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\064_enterprise_travel_reimbursement_guide_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Travel Reimbursement Guide V1"
+  },
+  {
+    "id": 65,
+    "filename": "065_enterprise_budget_review_standard_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\065_enterprise_budget_review_standard_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Budget Review Standard V1"
+  },
+  {
+    "id": 66,
+    "filename": "066_enterprise_procurement_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\066_enterprise_procurement_policy_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Procurement Policy V1"
+  },
+  {
+    "id": 67,
+    "filename": "067_enterprise_corporate_card_policy_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\067_enterprise_corporate_card_policy_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Corporate Card Policy V1"
+  },
+  {
+    "id": 68,
+    "filename": "068_enterprise_petty_cash_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\068_enterprise_petty_cash_sop_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Petty Cash SOP V1"
+  },
+  {
+    "id": 69,
+    "filename": "069_enterprise_financial_reporting_calendar_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\069_enterprise_financial_reporting_calendar_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Financial Reporting Calendar V1"
+  },
+  {
+    "id": 70,
+    "filename": "070_enterprise_audit_evidence_checklist_v1.pdf",
+    "path": "data\\enterprise_dataset\\finance\\070_enterprise_audit_evidence_checklist_v1.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Audit Evidence Checklist V1"
+  },
+  {
+    "id": 71,
+    "filename": "071_enterprise_expense_reimbursement_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\071_enterprise_expense_reimbursement_policy_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Expense Reimbursement Policy V2"
+  },
+  {
+    "id": 72,
+    "filename": "072_enterprise_vendor_payment_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\072_enterprise_vendor_payment_sop_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Vendor Payment SOP V2"
+  },
+  {
+    "id": 73,
+    "filename": "073_enterprise_invoice_approval_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\073_enterprise_invoice_approval_policy_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Invoice Approval Policy V2"
+  },
+  {
+    "id": 74,
+    "filename": "074_enterprise_travel_reimbursement_guide_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\074_enterprise_travel_reimbursement_guide_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Travel Reimbursement Guide V2"
+  },
+  {
+    "id": 75,
+    "filename": "075_enterprise_budget_review_standard_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\075_enterprise_budget_review_standard_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Budget Review Standard V2"
+  },
+  {
+    "id": 76,
+    "filename": "076_enterprise_procurement_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\076_enterprise_procurement_policy_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Procurement Policy V2"
+  },
+  {
+    "id": 77,
+    "filename": "077_enterprise_corporate_card_policy_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\077_enterprise_corporate_card_policy_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Corporate Card Policy V2"
+  },
+  {
+    "id": 78,
+    "filename": "078_enterprise_petty_cash_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\078_enterprise_petty_cash_sop_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Petty Cash SOP V2"
+  },
+  {
+    "id": 79,
+    "filename": "079_enterprise_financial_reporting_calendar_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\079_enterprise_financial_reporting_calendar_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Financial Reporting Calendar V2"
+  },
+  {
+    "id": 80,
+    "filename": "080_enterprise_audit_evidence_checklist_v2.pdf",
+    "path": "data\\enterprise_dataset\\finance\\080_enterprise_audit_evidence_checklist_v2.pdf",
+    "department": "Finance",
+    "document_type": "Policy",
+    "access_level": "internal",
+    "title": "Enterprise Audit Evidence Checklist V2"
+  },
+  {
+    "id": 81,
+    "filename": "081_enterprise_project_documentation_standard_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\081_enterprise_project_documentation_standard_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Project Documentation Standard V1"
+  },
+  {
+    "id": 82,
+    "filename": "082_enterprise_project_status_reporting_sop_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\082_enterprise_project_status_reporting_sop_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Project Status Reporting SOP V1"
+  },
+  {
+    "id": 83,
+    "filename": "083_enterprise_release_readiness_checklist_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\083_enterprise_release_readiness_checklist_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Release Readiness Checklist V1"
+  },
+  {
+    "id": 84,
+    "filename": "084_enterprise_meeting_notes_standard_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\084_enterprise_meeting_notes_standard_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Meeting Notes Standard V1"
+  },
+  {
+    "id": 85,
+    "filename": "085_enterprise_risk_register_guide_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\085_enterprise_risk_register_guide_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Risk Register Guide V1"
+  },
+  {
+    "id": 86,
+    "filename": "086_enterprise_business_continuity_plan_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\086_enterprise_business_continuity_plan_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Business Continuity Plan V1"
+  },
+  {
+    "id": 87,
+    "filename": "087_enterprise_knowledge_base_article_standard_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\087_enterprise_knowledge_base_article_standard_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Knowledge Base Article Standard V1"
+  },
+  {
+    "id": 88,
+    "filename": "088_enterprise_stakeholder_communication_plan_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\088_enterprise_stakeholder_communication_plan_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Stakeholder Communication Plan V1"
+  },
+  {
+    "id": 89,
+    "filename": "089_enterprise_deployment_runbook_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\089_enterprise_deployment_runbook_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Deployment Runbook V1"
+  },
+  {
+    "id": 90,
+    "filename": "090_enterprise_post_implementation_review_v1.pdf",
+    "path": "data\\enterprise_dataset\\operations\\090_enterprise_post_implementation_review_v1.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Post Implementation Review V1"
+  },
+  {
+    "id": 91,
+    "filename": "091_enterprise_project_documentation_standard_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\091_enterprise_project_documentation_standard_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Project Documentation Standard V2"
+  },
+  {
+    "id": 92,
+    "filename": "092_enterprise_project_status_reporting_sop_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\092_enterprise_project_status_reporting_sop_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Project Status Reporting SOP V2"
+  },
+  {
+    "id": 93,
+    "filename": "093_enterprise_release_readiness_checklist_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\093_enterprise_release_readiness_checklist_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Release Readiness Checklist V2"
+  },
+  {
+    "id": 94,
+    "filename": "094_enterprise_meeting_notes_standard_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\094_enterprise_meeting_notes_standard_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Meeting Notes Standard V2"
+  },
+  {
+    "id": 95,
+    "filename": "095_enterprise_risk_register_guide_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\095_enterprise_risk_register_guide_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Risk Register Guide V2"
+  },
+  {
+    "id": 96,
+    "filename": "096_enterprise_business_continuity_plan_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\096_enterprise_business_continuity_plan_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Business Continuity Plan V2"
+  },
+  {
+    "id": 97,
+    "filename": "097_enterprise_knowledge_base_article_standard_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\097_enterprise_knowledge_base_article_standard_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Knowledge Base Article Standard V2"
+  },
+  {
+    "id": 98,
+    "filename": "098_enterprise_stakeholder_communication_plan_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\098_enterprise_stakeholder_communication_plan_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Stakeholder Communication Plan V2"
+  },
+  {
+    "id": 99,
+    "filename": "099_enterprise_deployment_runbook_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\099_enterprise_deployment_runbook_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Deployment Runbook V2"
+  },
+  {
+    "id": 100,
+    "filename": "100_enterprise_post_implementation_review_v2.pdf",
+    "path": "data\\enterprise_dataset\\operations\\100_enterprise_post_implementation_review_v2.pdf",
+    "department": "Operations",
+    "document_type": "Technical Manual",
+    "access_level": "internal",
+    "title": "Enterprise Post Implementation Review V2"
+  }
+]

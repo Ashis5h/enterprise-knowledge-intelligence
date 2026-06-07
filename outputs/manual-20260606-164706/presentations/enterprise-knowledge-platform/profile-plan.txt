@@ -1,0 +1,5 @@
+Audience: interviewers, evaluators, and project reviewers assessing an enterprise GenAI implementation.
+Goal: explain what was built, how it works, and why the architecture is industry-relevant.
+Tone: technical, confident, practical, and demo-ready.
+Deck length: 10 slides, 16:9 widescreen.
+Visual approach: clean enterprise dashboard language, navy and blue theme, structured diagrams, concise proof points.

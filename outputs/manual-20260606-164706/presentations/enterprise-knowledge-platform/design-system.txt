@@ -1,0 +1,5 @@
+Canvas: 1280 x 720.
+Palette: navy #081B3A, blue #2563EB, light blue #DBEAFE, slate #475569, white #FFFFFF, soft background #F4F8FF.
+Typography: Aptos Display for titles, Aptos for body, Aptos Mono for code-style labels.
+Layout: consistent header, strong left title zone, card-based proof points, diagrams with aligned boxes and connectors.
+Interaction cue: screenshots are represented as dashboard metric cards and source cards to keep the deck inspectable.

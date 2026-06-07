@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: enterprise-knowledge-intelligence-backend
+Version: 0.1.0
+Summary: FastAPI backend for a multi-agent enterprise RAG platform
+Requires-Python: >=3.11
+Requires-Dist: chromadb>=0.5.0
+Requires-Dist: fastapi>=0.111.0
+Requires-Dist: langchain>=0.2.0
+Requires-Dist: langchain-community>=0.2.0
+Requires-Dist: langchain-text-splitters>=0.2.0
+Requires-Dist: langgraph>=0.1.0
+Requires-Dist: pydantic-settings>=2.3.0
+Requires-Dist: pypdf>=4.2.0
+Requires-Dist: python-multipart>=0.0.9
+Requires-Dist: sentence-transformers>=3.0.0
+Requires-Dist: sqlalchemy>=2.0.0
+Requires-Dist: psycopg[binary]>=3.1.0
+Requires-Dist: uvicorn[standard]>=0.30.0
+Provides-Extra: dev
+Requires-Dist: httpx>=0.27.0; extra == "dev"
+Requires-Dist: pytest>=8.2.0; extra == "dev"
+Requires-Dist: ruff>=0.5.0; extra == "dev"

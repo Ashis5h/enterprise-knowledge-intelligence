@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-06-06T08:14:58.617990+00:00",
+  "summary": {
+    "total_cases": 5,
+    "faithfulness": 1.0,
+    "context_precision": 0.0,
+    "answer_relevancy": 0.8,
+    "context_recall": 0.0,
+    "hallucination_rate": 1.0
+  },
+  "cases": [
+    {
+      "id": "leave_casual",
+      "question": "How many casual leaves are allowed?",
+      "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+      "expected_source": "sample_leave_policy.txt",
+      "top_source": "006_enterprise_onboarding_guide_v1.pdf",
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "answer_relevancy": 1.0,
+      "context_recall": 0.0,
+      "passed": false
+    },
+    {
+      "id": "security_incident_reporting",
+      "question": "When should security incidents be reported?",
+      "answer": "Security incidents must be reported within 30 minutes of discovery.",
+      "expected_source": "security_guidelines.txt",
+      "top_source": "048_enterprise_vendor_security_checklist_v1.pdf",
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "answer_relevancy": 1.0,
+      "context_recall": 0.0,
+      "passed": false
+    },
+    {
+      "id": "project_status_due",
+      "question": "When are project status reports due?",
+      "answer": "Project status reports must be submitted every Friday before 5:00 PM.",
+      "expected_source": "project_documentation.txt",
+      "top_source": "082_enterprise_project_status_reporting_sop_v1.pdf",
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "answer_relevancy": 1.0,
+      "context_recall": 0.0,
+      "passed": false
+    },
+    {
+      "id": "onboarding_training",
+      "question": "When must onboarding training be completed?",
+      "answer": "New employees must complete onboarding training within 14 calendar days.",
+      "expected_source": "employee_handbook.txt",
+      "top_source": "006_enterprise_onboarding_guide_v1.pdf",
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "answer_relevancy": 0.33,
+      "context_recall": 0.0,
+      "passed": false
+    },
+    {
+      "id": "priority_one_acknowledgement",
+      "question": "What is the acknowledgement time for Priority 1 incidents?",
+      "answer": "Priority 1 incidents must be acknowledged within 15 minutes.",
+      "expected_source": "it_support_sop.txt",
+      "top_source": "022_enterprise_incident_escalation_sop_v1.pdf",
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "answer_relevancy": 0.67,
+      "context_recall": 0.0,
+      "passed": false
+    }
+  ]
+}

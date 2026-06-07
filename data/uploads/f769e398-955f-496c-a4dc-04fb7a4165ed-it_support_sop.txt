@@ -1,0 +1,12 @@
+IT Support SOP
+
+All IT support requests must be submitted through the Service Desk portal. Employees should include the asset tag, operating system, error screenshot, business impact, and contact number.
+
+Priority 1 incidents include complete network outages, production system downtime, security lockouts affecting multiple users, and data loss events. Priority 1 incidents must be acknowledged within 15 minutes and escalated to the IT Operations Manager.
+
+Password reset requests are treated as standard service requests. The helpdesk must verify the employee identity using the registered mobile number or manager approval before resetting credentials.
+
+Laptops issued to employees must have endpoint protection, disk encryption, VPN configuration, and approved productivity software installed before handover.
+
+Resolved tickets must include root cause, action taken, resolution time, and preventive recommendation before closure.
+

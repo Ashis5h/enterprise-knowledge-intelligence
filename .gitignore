@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Env and local data
+.env
+*.db
+*.sqlite
+backend/chroma_store/
+backend/data/
+data/documents/*
+!data/documents/.gitkeep
+data/generated/*
+!data/generated/.gitkeep
+data/evaluation/*
+!data/evaluation/.gitkeep
+
+# OS and tools
+.DS_Store
+Thumbs.db

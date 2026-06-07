@@ -1,0 +1,191 @@
+[
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "I could not find enough trusted enterprise context to answer this yet. Please upload relevant documents first.",
+    "validation_status": "needs_review",
+    "source_count": 0,
+    "average_confidence": 0.0,
+    "created_at": "2026-06-04T11:58:27.652125+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 1,
+    "average_confidence": 1.0,
+    "created_at": "2026-06-04T11:59:31.940883+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 1,
+    "average_confidence": 1.0,
+    "created_at": "2026-06-04T12:00:23.033578+00:00"
+  },
+  {
+    "question": "When should security incidents be reported?",
+    "mode": "qa",
+    "answer": "Security incidents must be reported within 30 minutes of discovery.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.8333333333333333,
+    "created_at": "2026-06-04T12:01:56.116285+00:00"
+  },
+  {
+    "question": "What is the acknowledgement time for Priority 1 incidents?",
+    "mode": "qa",
+    "answer": "Priority 1 incidents must be acknowledged within 15 minutes and escalated to the IT Operations Manager.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.4,
+    "created_at": "2026-06-04T12:02:03.735288+00:00"
+  },
+  {
+    "question": "When are project status reports due?",
+    "mode": "qa",
+    "answer": "Project status reports must be submitted every Friday before 5:00 PM.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.4375,
+    "created_at": "2026-06-04T12:02:10.765696+00:00"
+  },
+  {
+    "question": "When must onboarding training be completed?",
+    "mode": "qa",
+    "answer": "Policy Details New employees must complete onboarding training within 14 calendar days.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.75,
+    "created_at": "2026-06-04T12:22:37.254848+00:00"
+  },
+  {
+    "question": "When must onboarding training be completed?",
+    "mode": "qa",
+    "answer": "New employees must complete onboarding training within 14 calendar days.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 1.0,
+    "created_at": "2026-06-04T12:38:47.510101+00:00"
+  },
+  {
+    "question": "What is the acknowledgement time for Priority 1 incidents?",
+    "mode": "qa",
+    "answer": "Priority 1 incidents must be acknowledged within 15 minutes.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.8,
+    "created_at": "2026-06-04T12:38:55.118672+00:00"
+  },
+  {
+    "question": "When should security incidents be reported?",
+    "mode": "qa",
+    "answer": "Security incidents must be reported within 30 minutes of discovery.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 1.0,
+    "created_at": "2026-06-04T12:39:03.565294+00:00"
+  },
+  {
+    "question": "When should security incidents be reported?",
+    "mode": "qa",
+    "answer": "Security incidents must be reported within 30 minutes of discovery.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 1.0,
+    "created_at": "2026-06-06T06:55:22.529326+00:00"
+  },
+  {
+    "question": "When should security incidents be reported?",
+    "mode": "qa",
+    "answer": "Security incidents must be reported within 30 minutes of discovery.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.25729657,
+    "created_at": "2026-06-06T08:01:30.866099+00:00"
+  },
+  {
+    "question": "What is the acknowledgement time for Priority 1 incidents?",
+    "mode": "qa",
+    "answer": "Priority 1 incidents must be acknowledged within 15 minutes.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.20537567499999998,
+    "created_at": "2026-06-06T08:01:37.877809+00:00"
+  },
+  {
+    "question": "When are project status reports due?",
+    "mode": "qa",
+    "answer": "Project status reports must be submitted every Friday before 5:00 PM.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.22213364025000001,
+    "created_at": "2026-06-06T08:01:42.644407+00:00"
+  },
+  {
+    "question": "Create an executive summary of security guidelines.",
+    "mode": "qa",
+    "answer": "Enterprise Security Guidelines V1 Enterprise Security Guidelines V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.19005872675000002,
+    "created_at": "2026-06-06T08:14:35.407418+00:00"
+  },
+  {
+    "question": "When should security incidents be reported?",
+    "mode": "qa",
+    "answer": "Security incidents must be reported within 30 minutes of discovery.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.25729657,
+    "created_at": "2026-06-06T10:52:21.891686+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.29606629525,
+    "created_at": "2026-06-06T20:47:59.035878+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.29606629525,
+    "created_at": "2026-06-06T20:57:57.022446+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.29606629525,
+    "created_at": "2026-06-06T21:24:23.967758+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.29606629525,
+    "created_at": "2026-06-06T21:34:50.555270+00:00"
+  },
+  {
+    "question": "How many casual leaves are allowed?",
+    "mode": "qa",
+    "answer": "Employees are entitled to 12 casual leaves per calendar year.",
+    "validation_status": "grounded",
+    "source_count": 4,
+    "average_confidence": 0.29606629525,
+    "created_at": "2026-06-06T21:39:36.917218+00:00"
+  }
+]

@@ -1,0 +1,6 @@
+Core claim: This project demonstrates an end-to-end enterprise knowledge intelligence platform, not just a chatbot.
+Support 1: Documents are ingested, chunked, embedded, indexed, retrieved, and cited.
+Support 2: LangGraph coordinates retrieval, reasoning, report generation, and validation agents.
+Support 3: Authentication, metadata, Docker, Pinecone support, evaluation, and fine-tuning assets make it enterprise-grade.
+Support 4: A realistic 100-document PDF dataset and generated QLoRA instruction dataset support portfolio-level depth.
+Close: The remaining work is production hardening with real cloud deployment, real SSO, and GPU-based training.

@@ -1,0 +1,12 @@
+Enterprise Security Guidelines
+
+Employees must use multi-factor authentication for email, VPN, cloud applications, and administrative systems. MFA must not be disabled without written approval from the Information Security team.
+
+Confidential documents must not be shared through personal email, public file-sharing links, or unmanaged messaging applications. Approved channels include the enterprise document portal and encrypted corporate email.
+
+Any suspected phishing email must be reported using the phishing report button in the mail client. Employees should not click links, download attachments, or reply to suspicious messages.
+
+USB storage devices are restricted by default. Temporary USB access requires manager approval, business justification, and endpoint security review.
+
+Security incidents must be reported within 30 minutes of discovery. Examples include lost devices, unauthorized access, malware alerts, credential exposure, and accidental data disclosure.
+

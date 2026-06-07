@@ -1,0 +1,1709 @@
+[
+  {
+    "page_content": "Enterprise Leave Policy Employees are entitled to 12 casual leaves per calendar year. Casual leave must be requested through the HR portal at least one working day in advance except during emergencies. Employees are entitled to 15 earned leaves per calendar year. Earned leave requests of more than five consecutive working days require manager approval and HR acknowledgement. Employees are entitled to 10 sick leaves per calendar year. Sick leave longer than two consecutive working days requires a medical certificate. Unused casual leave does not carry forward to the next year. Unused earned leave can be carried forward up to a maximum balance of 30 days.",
+    "metadata": {
+      "source": "data/uploads/3e8ff746-abe5-4858-9b34-8cf1df3ca439-sample_leave_policy.txt",
+      "document_name": "sample_leave_policy.txt",
+      "chunk_id": "3e8ff746-abe5-4858-9b34-8cf1df3ca439-sample_leave_policy-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Security Guidelines Employees must use multi-factor authentication for email, VPN, cloud applications, and administrative systems. MFA must not be disabled without written approval from the Information Security team. Confidential documents must not be shared through personal email, public file-sharing links, or unmanaged messaging applications. Approved channels include the enterprise document portal and encrypted corporate email. Any suspected phishing email must be reported using the phishing report button in the mail client. Employees should not click links, download attachments, or reply to suspicious messages. USB storage devices are restricted by default. Temporary USB access requires manager approval, business justification, and endpoint security review. Security incidents must be reported within 30 minutes of discovery. Examples include lost devices, unauthorized acces",
+    "metadata": {
+      "source": "data/uploads/53626aa1-1b5f-419f-8fb4-04d6388d7dc1-security_guidelines.txt",
+      "document_name": "security_guidelines.txt",
+      "chunk_id": "53626aa1-1b5f-419f-8fb4-04d6388d7dc1-security_guidelines-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "n, and endpoint security review. Security incidents must be reported within 30 minutes of discovery. Examples include lost devices, unauthorized access, malware alerts, credential exposure, and accidental data disclosure.",
+    "metadata": {
+      "source": "data/uploads/53626aa1-1b5f-419f-8fb4-04d6388d7dc1-security_guidelines.txt",
+      "document_name": "security_guidelines.txt",
+      "chunk_id": "53626aa1-1b5f-419f-8fb4-04d6388d7dc1-security_guidelines-1",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Project Documentation Standard Every enterprise project must maintain a project charter, scope statement, stakeholder list, architecture notes, risk register, and delivery plan. Project status reports must be submitted every Friday before 5:00 PM. The report should include completed work, upcoming milestones, blockers, risks, decisions required, and dependency updates. Technical documentation must include system overview, architecture diagram, API contracts, deployment steps, environment variables, monitoring setup, and rollback procedure. Change requests must be reviewed by the project manager and approved by the change advisory board when the change affects timeline, cost, security, or production stability. At project closure, the team must submit final documentation, lessons learned, support handover notes, access inventory, and production readiness confirmation.",
+    "metadata": {
+      "source": "data/uploads/ca304a86-10ec-4b31-859c-1fb7caaa4e02-project_documentation.txt",
+      "document_name": "project_documentation.txt",
+      "chunk_id": "ca304a86-10ec-4b31-859c-1fb7caaa4e02-project_documentation-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "st submit final documentation, lessons learned, support handover notes, access inventory, and production readiness confirmation.",
+    "metadata": {
+      "source": "data/uploads/ca304a86-10ec-4b31-859c-1fb7caaa4e02-project_documentation.txt",
+      "document_name": "project_documentation.txt",
+      "chunk_id": "ca304a86-10ec-4b31-859c-1fb7caaa4e02-project_documentation-1",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "IT Support SOP All IT support requests must be submitted through the Service Desk portal. Employees should include the asset tag, operating system, error screenshot, business impact, and contact number. Priority 1 incidents include complete network outages, production system downtime, security lockouts affecting multiple users, and data loss events. Priority 1 incidents must be acknowledged within 15 minutes and escalated to the IT Operations Manager. Password reset requests are treated as standard service requests. The helpdesk must verify the employee identity using the registered mobile number or manager approval before resetting credentials. Laptops issued to employees must have endpoint protection, disk encryption, VPN configuration, and approved productivity software installed before handover. Resolved tickets must include root cause, action taken, resolution time, and preventive r",
+    "metadata": {
+      "source": "data/uploads/f769e398-955f-496c-a4dc-04fb7a4165ed-it_support_sop.txt",
+      "document_name": "it_support_sop.txt",
+      "chunk_id": "f769e398-955f-496c-a4dc-04fb7a4165ed-it_support_sop-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "nd approved productivity software installed before handover. Resolved tickets must include root cause, action taken, resolution time, and preventive recommendation before closure.",
+    "metadata": {
+      "source": "data/uploads/f769e398-955f-496c-a4dc-04fb7a4165ed-it_support_sop.txt",
+      "document_name": "it_support_sop.txt",
+      "chunk_id": "f769e398-955f-496c-a4dc-04fb7a4165ed-it_support_sop-1",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Employee Handbook Employees are expected to follow the organization code of conduct, protect company information, and maintain respectful communication with colleagues, customers, and partners. Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Flexible work arrangements may be approved by the reporting manager based on project requirements and business continuity needs. Employees must complete mandatory onboarding training within 15 days of joining. Mandatory modules include information security awareness, HR policies, workplace ethics, and data privacy. Performance reviews are conducted twice per year. Employees and managers should document goals, achievements, skill development areas, and feedback before the review discussion. Business travel expenses must be submitted within 10 working days after travel completion with valid invoices and manager approval.",
+    "metadata": {
+      "source": "data/uploads/df2e0022-049c-42b2-a707-cb799f7e2db9-employee_handbook.txt",
+      "document_name": "employee_handbook.txt",
+      "chunk_id": "df2e0022-049c-42b2-a707-cb799f7e2db9-employee_handbook-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "cussion. Business travel expenses must be submitted within 10 working days after travel completion with valid invoices and manager approval.",
+    "metadata": {
+      "source": "data/uploads/df2e0022-049c-42b2-a707-cb799f7e2db9-employee_handbook.txt",
+      "document_name": "employee_handbook.txt",
+      "chunk_id": "df2e0022-049c-42b2-a707-cb799f7e2db9-employee_handbook-1",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Leave Policy V1 Enterprise Leave Policy V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Rev",
+    "metadata": {
+      "source": "data/uploads/1f603c5e-03c9-473a-9a6b-ff49d9f048fa-001_enterprise_leave_policy_v1.pdf",
+      "page": 0,
+      "document_name": "001_enterprise_leave_policy_v1.pdf",
+      "chunk_id": "1f603c5e-03c9-473a-9a6b-ff49d9f048fa-001_enterprise_leave_policy_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Employee Handbook V1 Enterprise Employee Handbook V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit r",
+    "metadata": {
+      "source": "data/uploads/90ec4f98-85cf-4303-9574-95988aeb551f-002_enterprise_employee_handbook_v1.pdf",
+      "page": 0,
+      "document_name": "002_enterprise_employee_handbook_v1.pdf",
+      "chunk_id": "90ec4f98-85cf-4303-9574-95988aeb551f-002_enterprise_employee_handbook_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Remote Work Policy V1 Enterprise Remote Work Policy V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit",
+    "metadata": {
+      "source": "data/uploads/271a31c2-4207-4934-9d3d-b653824443a4-003_enterprise_remote_work_policy_v1.pdf",
+      "page": 0,
+      "document_name": "003_enterprise_remote_work_policy_v1.pdf",
+      "chunk_id": "271a31c2-4207-4934-9d3d-b653824443a4-003_enterprise_remote_work_policy_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Code of Conduct V1 Enterprise Code of Conduct V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit revie",
+    "metadata": {
+      "source": "data/uploads/e57051a0-52b2-485f-aab7-0e2d16e215f5-004_enterprise_code_of_conduct_v1.pdf",
+      "page": 0,
+      "document_name": "004_enterprise_code_of_conduct_v1.pdf",
+      "chunk_id": "e57051a0-52b2-485f-aab7-0e2d16e215f5-004_enterprise_code_of_conduct_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Performance Review Policy V1 Enterprise Performance Review Policy V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be reco",
+    "metadata": {
+      "source": "data/uploads/35d7a87f-7967-4a84-a727-257844777694-005_enterprise_performance_review_policy_v1.pdf",
+      "page": 0,
+      "document_name": "005_enterprise_performance_review_policy_v1.pdf",
+      "chunk_id": "35d7a87f-7967-4a84-a727-257844777694-005_enterprise_performance_review_policy_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Onboarding Guide V1 Enterprise Onboarding Guide V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit rev",
+    "metadata": {
+      "source": "data/uploads/1f8632de-2b68-4714-963b-0396a7e1f519-006_enterprise_onboarding_guide_v1.pdf",
+      "page": 0,
+      "document_name": "006_enterprise_onboarding_guide_v1.pdf",
+      "chunk_id": "1f8632de-2b68-4714-963b-0396a7e1f519-006_enterprise_onboarding_guide_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Training Completion Policy V1 Enterprise Training Completion Policy V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be re",
+    "metadata": {
+      "source": "data/uploads/c66ff492-432f-4f94-ae56-409bce7b0989-007_enterprise_training_completion_policy_v1.pdf",
+      "page": 0,
+      "document_name": "007_enterprise_training_completion_policy_v1.pdf",
+      "chunk_id": "c66ff492-432f-4f94-ae56-409bce7b0989-007_enterprise_training_completion_policy_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Travel and Attendance Policy V1 Enterprise Travel and Attendance Policy V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must b",
+    "metadata": {
+      "source": "data/uploads/bda2bdc5-f1e3-4262-a76b-0a0504c89aa8-008_enterprise_travel_and_attendance_policy_v1.pdf",
+      "page": 0,
+      "document_name": "008_enterprise_travel_and_attendance_policy_v1.pdf",
+      "chunk_id": "bda2bdc5-f1e3-4262-a76b-0a0504c89aa8-008_enterprise_travel_and_attendance_policy_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Benefits Policy V1 Enterprise Benefits Policy V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit revie",
+    "metadata": {
+      "source": "data/uploads/e4da9dae-a86d-4cb4-a55d-87018aacd6e0-009_enterprise_benefits_policy_v1.pdf",
+      "page": 0,
+      "document_name": "009_enterprise_benefits_policy_v1.pdf",
+      "chunk_id": "e4da9dae-a86d-4cb4-a55d-87018aacd6e0-009_enterprise_benefits_policy_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Workplace Conduct SOP V1 Enterprise Workplace Conduct SOP V1 Department: HR Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/786075af-8822-4098-ab46-47e954fcf5a2-010_enterprise_workplace_conduct_sop_v1.pdf",
+      "page": 0,
+      "document_name": "010_enterprise_workplace_conduct_sop_v1.pdf",
+      "chunk_id": "786075af-8822-4098-ab46-47e954fcf5a2-010_enterprise_workplace_conduct_sop_v1-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Leave Policy V2 Enterprise Leave Policy V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Rev",
+    "metadata": {
+      "source": "data/uploads/3e7a77ee-555b-447e-a31c-c99fb2c78062-011_enterprise_leave_policy_v2.pdf",
+      "page": 0,
+      "document_name": "011_enterprise_leave_policy_v2.pdf",
+      "chunk_id": "3e7a77ee-555b-447e-a31c-c99fb2c78062-011_enterprise_leave_policy_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Employee Handbook V2 Enterprise Employee Handbook V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit r",
+    "metadata": {
+      "source": "data/uploads/eb4193ab-ec7d-480a-a72f-0bcdda7c90d9-012_enterprise_employee_handbook_v2.pdf",
+      "page": 0,
+      "document_name": "012_enterprise_employee_handbook_v2.pdf",
+      "chunk_id": "eb4193ab-ec7d-480a-a72f-0bcdda7c90d9-012_enterprise_employee_handbook_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Remote Work Policy V2 Enterprise Remote Work Policy V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit",
+    "metadata": {
+      "source": "data/uploads/91379f20-ae59-40db-bbac-55114793cd3b-013_enterprise_remote_work_policy_v2.pdf",
+      "page": 0,
+      "document_name": "013_enterprise_remote_work_policy_v2.pdf",
+      "chunk_id": "91379f20-ae59-40db-bbac-55114793cd3b-013_enterprise_remote_work_policy_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Code of Conduct V2 Enterprise Code of Conduct V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit revie",
+    "metadata": {
+      "source": "data/uploads/80196afd-47e4-42a4-be8a-3470e4a6298e-014_enterprise_code_of_conduct_v2.pdf",
+      "page": 0,
+      "document_name": "014_enterprise_code_of_conduct_v2.pdf",
+      "chunk_id": "80196afd-47e4-42a4-be8a-3470e4a6298e-014_enterprise_code_of_conduct_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Performance Review Policy V2 Enterprise Performance Review Policy V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be reco",
+    "metadata": {
+      "source": "data/uploads/bcabe0a8-c8f8-4e6d-9925-031e183bca93-015_enterprise_performance_review_policy_v2.pdf",
+      "page": 0,
+      "document_name": "015_enterprise_performance_review_policy_v2.pdf",
+      "chunk_id": "bcabe0a8-c8f8-4e6d-9925-031e183bca93-015_enterprise_performance_review_policy_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Onboarding Guide V2 Enterprise Onboarding Guide V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit rev",
+    "metadata": {
+      "source": "data/uploads/196cf48b-14f6-4309-9e26-eb2ecc614a07-016_enterprise_onboarding_guide_v2.pdf",
+      "page": 0,
+      "document_name": "016_enterprise_onboarding_guide_v2.pdf",
+      "chunk_id": "196cf48b-14f6-4309-9e26-eb2ecc614a07-016_enterprise_onboarding_guide_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Training Completion Policy V2 Enterprise Training Completion Policy V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be re",
+    "metadata": {
+      "source": "data/uploads/f31209be-2745-4db0-8ca7-c4c5b7356f07-017_enterprise_training_completion_policy_v2.pdf",
+      "page": 0,
+      "document_name": "017_enterprise_training_completion_policy_v2.pdf",
+      "chunk_id": "f31209be-2745-4db0-8ca7-c4c5b7356f07-017_enterprise_training_completion_policy_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Travel and Attendance Policy V2 Enterprise Travel and Attendance Policy V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must b",
+    "metadata": {
+      "source": "data/uploads/0d739518-b454-4518-b2df-274ee22c1413-018_enterprise_travel_and_attendance_policy_v2.pdf",
+      "page": 0,
+      "document_name": "018_enterprise_travel_and_attendance_policy_v2.pdf",
+      "chunk_id": "0d739518-b454-4518-b2df-274ee22c1413-018_enterprise_travel_and_attendance_policy_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Benefits Policy V2 Enterprise Benefits Policy V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Employees are entitled to 12 casual leaves per calendar year. Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit revie",
+    "metadata": {
+      "source": "data/uploads/236a2c7d-36bc-455f-91d8-bd46403822b0-019_enterprise_benefits_policy_v2.pdf",
+      "page": 0,
+      "document_name": "019_enterprise_benefits_policy_v2.pdf",
+      "chunk_id": "236a2c7d-36bc-455f-91d8-bd46403822b0-019_enterprise_benefits_policy_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "ust review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/236a2c7d-36bc-455f-91d8-bd46403822b0-019_enterprise_benefits_policy_v2.pdf",
+      "page": 0,
+      "document_name": "019_enterprise_benefits_policy_v2.pdf",
+      "chunk_id": "236a2c7d-36bc-455f-91d8-bd46403822b0-019_enterprise_benefits_policy_v2-1",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Workplace Conduct SOP V2 Enterprise Workplace Conduct SOP V2 Department: HR Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the HR department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Earned leave requests longer than five working days require manager approval. New employees must complete onboarding training within 14 calendar days. Remote work requests must be submitted two working days in advance. Annual performance reviews are completed during the last quarter of the year. Employees are entitled to 12 casual leaves per calendar year. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/a20f99e7-d10f-470f-b578-be9d294c62bc-020_enterprise_workplace_conduct_sop_v2.pdf",
+      "page": 0,
+      "document_name": "020_enterprise_workplace_conduct_sop_v2.pdf",
+      "chunk_id": "a20f99e7-d10f-470f-b578-be9d294c62bc-020_enterprise_workplace_conduct_sop_v2-0",
+      "department": "HR",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise IT Support SOP V1 Enterprise IT Support SOP V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review ",
+    "metadata": {
+      "source": "data/uploads/1c20c707-4f9d-492e-82e9-b827fc8c5ed1-021_enterprise_it_support_sop_v1.pdf",
+      "page": 0,
+      "document_name": "021_enterprise_it_support_sop_v1.pdf",
+      "chunk_id": "1c20c707-4f9d-492e-82e9-b827fc8c5ed1-021_enterprise_it_support_sop_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Incident Escalation SOP V1 Enterprise Incident Escalation SOP V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for aud",
+    "metadata": {
+      "source": "data/uploads/0b6b7ea0-af02-4b40-9725-4759860c78c4-022_enterprise_incident_escalation_sop_v1.pdf",
+      "page": 0,
+      "document_name": "022_enterprise_incident_escalation_sop_v1.pdf",
+      "chunk_id": "0b6b7ea0-af02-4b40-9725-4759860c78c4-022_enterprise_incident_escalation_sop_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Laptop Provisioning Guide V1 Enterprise Laptop Provisioning Guide V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/f6ee90d5-f1fe-474f-91bb-8d7e55a75992-023_enterprise_laptop_provisioning_guide_v1.pdf",
+      "page": 0,
+      "document_name": "023_enterprise_laptop_provisioning_guide_v1.pdf",
+      "chunk_id": "f6ee90d5-f1fe-474f-91bb-8d7e55a75992-023_enterprise_laptop_provisioning_guide_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Password Reset Procedure V1 Enterprise Password Reset Procedure V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for a",
+    "metadata": {
+      "source": "data/uploads/13a87e1b-936e-4c7b-8559-7e357c1cdf79-024_enterprise_password_reset_procedure_v1.pdf",
+      "page": 0,
+      "document_name": "024_enterprise_password_reset_procedure_v1.pdf",
+      "chunk_id": "13a87e1b-936e-4c7b-8559-7e357c1cdf79-024_enterprise_password_reset_procedure_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Service Desk Workflow V1 Enterprise Service Desk Workflow V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit r",
+    "metadata": {
+      "source": "data/uploads/0765deb0-1397-40dd-b718-6d1e43ebbd44-025_enterprise_service_desk_workflow_v1.pdf",
+      "page": 0,
+      "document_name": "025_enterprise_service_desk_workflow_v1.pdf",
+      "chunk_id": "0765deb0-1397-40dd-b718-6d1e43ebbd44-025_enterprise_service_desk_workflow_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Backup Restoration SOP V1 Enterprise Backup Restoration SOP V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit",
+    "metadata": {
+      "source": "data/uploads/dd5f4dee-7ea1-453e-a700-db45f2ddaa3b-026_enterprise_backup_restoration_sop_v1.pdf",
+      "page": 0,
+      "document_name": "026_enterprise_backup_restoration_sop_v1.pdf",
+      "chunk_id": "dd5f4dee-7ea1-453e-a700-db45f2ddaa3b-026_enterprise_backup_restoration_sop_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise VPN Access Guide V1 Enterprise VPN Access Guide V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Rev",
+    "metadata": {
+      "source": "data/uploads/99be0a7b-6c9a-457a-a2fc-64acc78345d2-027_enterprise_vpn_access_guide_v1.pdf",
+      "page": 0,
+      "document_name": "027_enterprise_vpn_access_guide_v1.pdf",
+      "chunk_id": "99be0a7b-6c9a-457a-a2fc-64acc78345d2-027_enterprise_vpn_access_guide_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Software Installation Policy V1 Enterprise Software Installation Policy V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be record",
+    "metadata": {
+      "source": "data/uploads/fee02305-bf1e-4c3c-8838-e7475b6a4b6a-028_enterprise_software_installation_policy_v1.pdf",
+      "page": 0,
+      "document_name": "028_enterprise_software_installation_policy_v1.pdf",
+      "chunk_id": "fee02305-bf1e-4c3c-8838-e7475b6a4b6a-028_enterprise_software_installation_policy_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Asset Management SOP V1 Enterprise Asset Management SOP V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit rev",
+    "metadata": {
+      "source": "data/uploads/c5ad9795-3356-4be1-a758-313c3c1f80ee-029_enterprise_asset_management_sop_v1.pdf",
+      "page": 0,
+      "document_name": "029_enterprise_asset_management_sop_v1.pdf",
+      "chunk_id": "c5ad9795-3356-4be1-a758-313c3c1f80ee-029_enterprise_asset_management_sop_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Change Management SOP V1 Enterprise Change Management SOP V1 Department: IT Document Type: SOP Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit r",
+    "metadata": {
+      "source": "data/uploads/58385a51-0e30-4738-9fb4-6240ae3c4bf7-030_enterprise_change_management_sop_v1.pdf",
+      "page": 0,
+      "document_name": "030_enterprise_change_management_sop_v1.pdf",
+      "chunk_id": "58385a51-0e30-4738-9fb4-6240ae3c4bf7-030_enterprise_change_management_sop_v1-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise IT Support SOP V2 Enterprise IT Support SOP V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review ",
+    "metadata": {
+      "source": "data/uploads/658d4bc8-e3bf-4d17-8fb7-1ada06d4f682-031_enterprise_it_support_sop_v2.pdf",
+      "page": 0,
+      "document_name": "031_enterprise_it_support_sop_v2.pdf",
+      "chunk_id": "658d4bc8-e3bf-4d17-8fb7-1ada06d4f682-031_enterprise_it_support_sop_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": " exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/658d4bc8-e3bf-4d17-8fb7-1ada06d4f682-031_enterprise_it_support_sop_v2.pdf",
+      "page": 0,
+      "document_name": "031_enterprise_it_support_sop_v2.pdf",
+      "chunk_id": "658d4bc8-e3bf-4d17-8fb7-1ada06d4f682-031_enterprise_it_support_sop_v2-1",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Incident Escalation SOP V2 Enterprise Incident Escalation SOP V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for aud",
+    "metadata": {
+      "source": "data/uploads/f0cc01ed-707b-4c8e-a0a0-5658d3ec798a-032_enterprise_incident_escalation_sop_v2.pdf",
+      "page": 0,
+      "document_name": "032_enterprise_incident_escalation_sop_v2.pdf",
+      "chunk_id": "f0cc01ed-707b-4c8e-a0a0-5658d3ec798a-032_enterprise_incident_escalation_sop_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Laptop Provisioning Guide V2 Enterprise Laptop Provisioning Guide V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/00740d23-d111-4913-a086-2eee6064668a-033_enterprise_laptop_provisioning_guide_v2.pdf",
+      "page": 0,
+      "document_name": "033_enterprise_laptop_provisioning_guide_v2.pdf",
+      "chunk_id": "00740d23-d111-4913-a086-2eee6064668a-033_enterprise_laptop_provisioning_guide_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Password Reset Procedure V2 Enterprise Password Reset Procedure V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for a",
+    "metadata": {
+      "source": "data/uploads/d3956bba-a300-4573-9ee0-a7a308b00eb4-034_enterprise_password_reset_procedure_v2.pdf",
+      "page": 0,
+      "document_name": "034_enterprise_password_reset_procedure_v2.pdf",
+      "chunk_id": "d3956bba-a300-4573-9ee0-a7a308b00eb4-034_enterprise_password_reset_procedure_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Service Desk Workflow V2 Enterprise Service Desk Workflow V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit r",
+    "metadata": {
+      "source": "data/uploads/3ae89659-5d62-4884-8c2b-75d655c782d7-035_enterprise_service_desk_workflow_v2.pdf",
+      "page": 0,
+      "document_name": "035_enterprise_service_desk_workflow_v2.pdf",
+      "chunk_id": "3ae89659-5d62-4884-8c2b-75d655c782d7-035_enterprise_service_desk_workflow_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Backup Restoration SOP V2 Enterprise Backup Restoration SOP V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit",
+    "metadata": {
+      "source": "data/uploads/b2097855-9f84-458f-b872-d6dfec78445b-036_enterprise_backup_restoration_sop_v2.pdf",
+      "page": 0,
+      "document_name": "036_enterprise_backup_restoration_sop_v2.pdf",
+      "chunk_id": "b2097855-9f84-458f-b872-d6dfec78445b-036_enterprise_backup_restoration_sop_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "gers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/b2097855-9f84-458f-b872-d6dfec78445b-036_enterprise_backup_restoration_sop_v2.pdf",
+      "page": 0,
+      "document_name": "036_enterprise_backup_restoration_sop_v2.pdf",
+      "chunk_id": "b2097855-9f84-458f-b872-d6dfec78445b-036_enterprise_backup_restoration_sop_v2-1",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise VPN Access Guide V2 Enterprise VPN Access Guide V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Rev",
+    "metadata": {
+      "source": "data/uploads/59ee4d0a-e886-4ce6-b56d-7dbad07dc6c6-037_enterprise_vpn_access_guide_v2.pdf",
+      "page": 0,
+      "document_name": "037_enterprise_vpn_access_guide_v2.pdf",
+      "chunk_id": "59ee4d0a-e886-4ce6-b56d-7dbad07dc6c6-037_enterprise_vpn_access_guide_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "view exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/59ee4d0a-e886-4ce6-b56d-7dbad07dc6c6-037_enterprise_vpn_access_guide_v2.pdf",
+      "page": 0,
+      "document_name": "037_enterprise_vpn_access_guide_v2.pdf",
+      "chunk_id": "59ee4d0a-e886-4ce6-b56d-7dbad07dc6c6-037_enterprise_vpn_access_guide_v2-1",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Software Installation Policy V2 Enterprise Software Installation Policy V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be record",
+    "metadata": {
+      "source": "data/uploads/a8a1d9de-81aa-4f20-891f-51d04cf803cd-038_enterprise_software_installation_policy_v2.pdf",
+      "page": 0,
+      "document_name": "038_enterprise_software_installation_policy_v2.pdf",
+      "chunk_id": "a8a1d9de-81aa-4f20-891f-51d04cf803cd-038_enterprise_software_installation_policy_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Asset Management SOP V2 Enterprise Asset Management SOP V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Priority 1 incidents must be acknowledged within 15 minutes. All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit rev",
+    "metadata": {
+      "source": "data/uploads/694e4567-e1b5-4bfa-87dd-4694ac0e48e0-039_enterprise_asset_management_sop_v2.pdf",
+      "page": 0,
+      "document_name": "039_enterprise_asset_management_sop_v2.pdf",
+      "chunk_id": "694e4567-e1b5-4bfa-87dd-4694ac0e48e0-039_enterprise_asset_management_sop_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": " must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/694e4567-e1b5-4bfa-87dd-4694ac0e48e0-039_enterprise_asset_management_sop_v2.pdf",
+      "page": 0,
+      "document_name": "039_enterprise_asset_management_sop_v2.pdf",
+      "chunk_id": "694e4567-e1b5-4bfa-87dd-4694ac0e48e0-039_enterprise_asset_management_sop_v2-1",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Change Management SOP V2 Enterprise Change Management SOP V2 Department: IT Document Type: SOP Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the IT department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details All IT support requests must be submitted through the Service Desk portal. Password reset requests require identity verification before completion. Production changes require approval from the change advisory board. Laptops must include endpoint protection, encryption, and VPN configuration. Priority 1 incidents must be acknowledged within 15 minutes. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit r",
+    "metadata": {
+      "source": "data/uploads/1663bbb5-2034-4be8-8926-ce7895075cb1-040_enterprise_change_management_sop_v2.pdf",
+      "page": 0,
+      "document_name": "040_enterprise_change_management_sop_v2.pdf",
+      "chunk_id": "1663bbb5-2034-4be8-8926-ce7895075cb1-040_enterprise_change_management_sop_v2-0",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "rs must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/1663bbb5-2034-4be8-8926-ce7895075cb1-040_enterprise_change_management_sop_v2.pdf",
+      "page": 0,
+      "document_name": "040_enterprise_change_management_sop_v2.pdf",
+      "chunk_id": "1663bbb5-2034-4be8-8926-ce7895075cb1-040_enterprise_change_management_sop_v2-1",
+      "department": "IT",
+      "document_type": "SOP",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Security Guidelines V1 Enterprise Security Guidelines V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/5e66b5dd-c6f6-4fd2-b51a-9654ebaa89f6-041_enterprise_security_guidelines_v1.pdf",
+      "page": 0,
+      "document_name": "041_enterprise_security_guidelines_v1.pdf",
+      "chunk_id": "5e66b5dd-c6f6-4fd2-b51a-9654ebaa89f6-041_enterprise_security_guidelines_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Phishing Response Policy V1 Enterprise Phishing Response Policy V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be re",
+    "metadata": {
+      "source": "data/uploads/92c47959-8537-4a66-8eeb-c363a54b06c9-042_enterprise_phishing_response_policy_v1.pdf",
+      "page": 0,
+      "document_name": "042_enterprise_phishing_response_policy_v1.pdf",
+      "chunk_id": "92c47959-8537-4a66-8eeb-c363a54b06c9-042_enterprise_phishing_response_policy_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise MFA Enforcement Policy V1 Enterprise MFA Enforcement Policy V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be record",
+    "metadata": {
+      "source": "data/uploads/e4a55d63-2834-48c9-ad34-145c6ee20fb3-043_enterprise_mfa_enforcement_policy_v1.pdf",
+      "page": 0,
+      "document_name": "043_enterprise_mfa_enforcement_policy_v1.pdf",
+      "chunk_id": "e4a55d63-2834-48c9-ad34-145c6ee20fb3-043_enterprise_mfa_enforcement_policy_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Data Classification Standard V1 Enterprise Data Classification Standard V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and mu",
+    "metadata": {
+      "source": "data/uploads/86b4c848-50a5-43a0-9213-2139663d81c8-044_enterprise_data_classification_standard_v1.pdf",
+      "page": 0,
+      "document_name": "044_enterprise_data_classification_standard_v1.pdf",
+      "chunk_id": "86b4c848-50a5-43a0-9213-2139663d81c8-044_enterprise_data_classification_standard_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Access Review SOP V1 Enterprise Access Review SOP V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for aud",
+    "metadata": {
+      "source": "data/uploads/16c97f92-c8ab-4fbc-89a9-fa57597ca2c5-045_enterprise_access_review_sop_v1.pdf",
+      "page": 0,
+      "document_name": "045_enterprise_access_review_sop_v1.pdf",
+      "chunk_id": "16c97f92-c8ab-4fbc-89a9-fa57597ca2c5-045_enterprise_access_review_sop_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Device Security Policy V1 Enterprise Device Security Policy V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be record",
+    "metadata": {
+      "source": "data/uploads/af59d2b4-04b6-47fc-a481-d229699e1f0c-046_enterprise_device_security_policy_v1.pdf",
+      "page": 0,
+      "document_name": "046_enterprise_device_security_policy_v1.pdf",
+      "chunk_id": "af59d2b4-04b6-47fc-a481-d229699e1f0c-046_enterprise_device_security_policy_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Confidential Data Handling V1 Enterprise Confidential Data Handling V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must b",
+    "metadata": {
+      "source": "data/uploads/b9bd4db4-6167-421a-94e1-7b1237a29e3f-047_enterprise_confidential_data_handling_v1.pdf",
+      "page": 0,
+      "document_name": "047_enterprise_confidential_data_handling_v1.pdf",
+      "chunk_id": "b9bd4db4-6167-421a-94e1-7b1237a29e3f-047_enterprise_confidential_data_handling_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Vendor Security Checklist V1 Enterprise Vendor Security Checklist V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be ",
+    "metadata": {
+      "source": "data/uploads/a8941d2b-1096-4656-81d2-7c0f30124f42-048_enterprise_vendor_security_checklist_v1.pdf",
+      "page": 0,
+      "document_name": "048_enterprise_vendor_security_checklist_v1.pdf",
+      "chunk_id": "a8941d2b-1096-4656-81d2-7c0f30124f42-048_enterprise_vendor_security_checklist_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Incident Reporting Policy V1 Enterprise Incident Reporting Policy V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be ",
+    "metadata": {
+      "source": "data/uploads/be8efe09-24c3-4eec-8916-525b39b676d1-049_enterprise_incident_reporting_policy_v1.pdf",
+      "page": 0,
+      "document_name": "049_enterprise_incident_reporting_policy_v1.pdf",
+      "chunk_id": "be8efe09-24c3-4eec-8916-525b39b676d1-049_enterprise_incident_reporting_policy_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise USB Access Standard V1 Enterprise USB Access Standard V1 Department: Security Document Type: Policy Access Level: restricted Version: 1.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/f5e0ca11-a10c-4426-8c27-edb11ffe4793-050_enterprise_usb_access_standard_v1.pdf",
+      "page": 0,
+      "document_name": "050_enterprise_usb_access_standard_v1.pdf",
+      "chunk_id": "f5e0ca11-a10c-4426-8c27-edb11ffe4793-050_enterprise_usb_access_standard_v1-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Security Guidelines V2 Enterprise Security Guidelines V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/3ddbed96-c0dc-449a-b2f9-85c439281f1f-051_enterprise_security_guidelines_v2.pdf",
+      "page": 0,
+      "document_name": "051_enterprise_security_guidelines_v2.pdf",
+      "chunk_id": "3ddbed96-c0dc-449a-b2f9-85c439281f1f-051_enterprise_security_guidelines_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Phishing Response Policy V2 Enterprise Phishing Response Policy V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be re",
+    "metadata": {
+      "source": "data/uploads/957edf63-2074-4add-a470-f8eef7ca763e-052_enterprise_phishing_response_policy_v2.pdf",
+      "page": 0,
+      "document_name": "052_enterprise_phishing_response_policy_v2.pdf",
+      "chunk_id": "957edf63-2074-4add-a470-f8eef7ca763e-052_enterprise_phishing_response_policy_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": " procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/957edf63-2074-4add-a470-f8eef7ca763e-052_enterprise_phishing_response_policy_v2.pdf",
+      "page": 0,
+      "document_name": "052_enterprise_phishing_response_policy_v2.pdf",
+      "chunk_id": "957edf63-2074-4add-a470-f8eef7ca763e-052_enterprise_phishing_response_policy_v2-1",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise MFA Enforcement Policy V2 Enterprise MFA Enforcement Policy V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be record",
+    "metadata": {
+      "source": "data/uploads/45e9d05a-4e07-4f94-a64c-54aec5a68fb7-053_enterprise_mfa_enforcement_policy_v2.pdf",
+      "page": 0,
+      "document_name": "053_enterprise_mfa_enforcement_policy_v2.pdf",
+      "chunk_id": "45e9d05a-4e07-4f94-a64c-54aec5a68fb7-053_enterprise_mfa_enforcement_policy_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Data Classification Standard V2 Enterprise Data Classification Standard V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and mu",
+    "metadata": {
+      "source": "data/uploads/b1d6541d-7915-4326-bb62-abd0179a5fe0-054_enterprise_data_classification_standard_v2.pdf",
+      "page": 0,
+      "document_name": "054_enterprise_data_classification_standard_v2.pdf",
+      "chunk_id": "b1d6541d-7915-4326-bb62-abd0179a5fe0-054_enterprise_data_classification_standard_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Access Review SOP V2 Enterprise Access Review SOP V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for aud",
+    "metadata": {
+      "source": "data/uploads/bf8f960f-abdf-497b-b2c7-3d7641331e98-055_enterprise_access_review_sop_v2.pdf",
+      "page": 0,
+      "document_name": "055_enterprise_access_review_sop_v2.pdf",
+      "chunk_id": "bf8f960f-abdf-497b-b2c7-3d7641331e98-055_enterprise_access_review_sop_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "nagers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/bf8f960f-abdf-497b-b2c7-3d7641331e98-055_enterprise_access_review_sop_v2.pdf",
+      "page": 0,
+      "document_name": "055_enterprise_access_review_sop_v2.pdf",
+      "chunk_id": "bf8f960f-abdf-497b-b2c7-3d7641331e98-055_enterprise_access_review_sop_v2-1",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Device Security Policy V2 Enterprise Device Security Policy V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be record",
+    "metadata": {
+      "source": "data/uploads/90f8d348-fbe9-4a93-8db4-b73685866698-056_enterprise_device_security_policy_v2.pdf",
+      "page": 0,
+      "document_name": "056_enterprise_device_security_policy_v2.pdf",
+      "chunk_id": "90f8d348-fbe9-4a93-8db4-b73685866698-056_enterprise_device_security_policy_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "cedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/90f8d348-fbe9-4a93-8db4-b73685866698-056_enterprise_device_security_policy_v2.pdf",
+      "page": 0,
+      "document_name": "056_enterprise_device_security_policy_v2.pdf",
+      "chunk_id": "90f8d348-fbe9-4a93-8db4-b73685866698-056_enterprise_device_security_policy_v2-1",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Confidential Data Handling V2 Enterprise Confidential Data Handling V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must b",
+    "metadata": {
+      "source": "data/uploads/718b412e-b1cf-4b67-8551-90e1ea4388e0-057_enterprise_confidential_data_handling_v2.pdf",
+      "page": 0,
+      "document_name": "057_enterprise_confidential_data_handling_v2.pdf",
+      "chunk_id": "718b412e-b1cf-4b67-8551-90e1ea4388e0-057_enterprise_confidential_data_handling_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Vendor Security Checklist V2 Enterprise Vendor Security Checklist V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be ",
+    "metadata": {
+      "source": "data/uploads/54809e39-34b6-447f-8217-473ba277ae06-058_enterprise_vendor_security_checklist_v2.pdf",
+      "page": 0,
+      "document_name": "058_enterprise_vendor_security_checklist_v2.pdf",
+      "chunk_id": "54809e39-34b6-447f-8217-473ba277ae06-058_enterprise_vendor_security_checklist_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Incident Reporting Policy V2 Enterprise Incident Reporting Policy V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Security incidents must be reported within 30 minutes of discovery. Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be ",
+    "metadata": {
+      "source": "data/uploads/5cce3266-4c73-4df5-be41-b7f0bd863850-059_enterprise_incident_reporting_policy_v2.pdf",
+      "page": 0,
+      "document_name": "059_enterprise_incident_reporting_policy_v2.pdf",
+      "chunk_id": "5cce3266-4c73-4df5-be41-b7f0bd863850-059_enterprise_incident_reporting_policy_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "he procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/5cce3266-4c73-4df5-be41-b7f0bd863850-059_enterprise_incident_reporting_policy_v2.pdf",
+      "page": 0,
+      "document_name": "059_enterprise_incident_reporting_policy_v2.pdf",
+      "chunk_id": "5cce3266-4c73-4df5-be41-b7f0bd863850-059_enterprise_incident_reporting_policy_v2-1",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise USB Access Standard V2 Enterprise USB Access Standard V2 Department: Security Document Type: Policy Access Level: restricted Version: 2.0 Purpose This document defines operational guidance for the Security department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Multi-factor authentication is mandatory for email, VPN, and cloud systems. Confidential documents must not be shared using personal email. USB storage access requires manager approval and business justification. Access reviews are performed every quarter for privileged accounts. Security incidents must be reported within 30 minutes of discovery. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/deb759c3-0bd4-43a1-b0cc-ea22db109768-060_enterprise_usb_access_standard_v2.pdf",
+      "page": 0,
+      "document_name": "060_enterprise_usb_access_standard_v2.pdf",
+      "chunk_id": "deb759c3-0bd4-43a1-b0cc-ea22db109768-060_enterprise_usb_access_standard_v2-0",
+      "department": "Security",
+      "document_type": "Policy",
+      "access_level": "restricted"
+    }
+  },
+  {
+    "page_content": "Enterprise Expense Reimbursement Policy V1 Enterprise Expense Reimbursement Policy V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written appro",
+    "metadata": {
+      "source": "data/uploads/21f0e0d0-060f-4b83-8f6e-0ddca85db9c9-061_enterprise_expense_reimbursement_policy_v1.pdf",
+      "page": 0,
+      "document_name": "061_enterprise_expense_reimbursement_policy_v1.pdf",
+      "chunk_id": "21f0e0d0-060f-4b83-8f6e-0ddca85db9c9-061_enterprise_expense_reimbursement_policy_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Vendor Payment SOP V1 Enterprise Vendor Payment SOP V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be reco",
+    "metadata": {
+      "source": "data/uploads/54edf741-bd71-458e-8915-1dded100ecef-062_enterprise_vendor_payment_sop_v1.pdf",
+      "page": 0,
+      "document_name": "062_enterprise_vendor_payment_sop_v1.pdf",
+      "chunk_id": "54edf741-bd71-458e-8915-1dded100ecef-062_enterprise_vendor_payment_sop_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Invoice Approval Policy V1 Enterprise Invoice Approval Policy V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and mu",
+    "metadata": {
+      "source": "data/uploads/252266ec-45d3-4924-a697-54601800c22a-063_enterprise_invoice_approval_policy_v1.pdf",
+      "page": 0,
+      "document_name": "063_enterprise_invoice_approval_policy_v1.pdf",
+      "chunk_id": "252266ec-45d3-4924-a697-54601800c22a-063_enterprise_invoice_approval_policy_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Travel Reimbursement Guide V1 Enterprise Travel Reimbursement Guide V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval ",
+    "metadata": {
+      "source": "data/uploads/f5df2a41-2529-4369-b70a-a3ebb974ea15-064_enterprise_travel_reimbursement_guide_v1.pdf",
+      "page": 0,
+      "document_name": "064_enterprise_travel_reimbursement_guide_v1.pdf",
+      "chunk_id": "f5df2a41-2529-4369-b70a-a3ebb974ea15-064_enterprise_travel_reimbursement_guide_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Budget Review Standard V1 Enterprise Budget Review Standard V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must",
+    "metadata": {
+      "source": "data/uploads/5e1d05ad-3f58-4348-86cd-8c363926eac7-065_enterprise_budget_review_standard_v1.pdf",
+      "page": 0,
+      "document_name": "065_enterprise_budget_review_standard_v1.pdf",
+      "chunk_id": "5e1d05ad-3f58-4348-86cd-8c363926eac7-065_enterprise_budget_review_standard_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Procurement Policy V1 Enterprise Procurement Policy V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be reco",
+    "metadata": {
+      "source": "data/uploads/ef0d9dcf-0c82-4e21-823a-9176791fb938-066_enterprise_procurement_policy_v1.pdf",
+      "page": 0,
+      "document_name": "066_enterprise_procurement_policy_v1.pdf",
+      "chunk_id": "ef0d9dcf-0c82-4e21-823a-9176791fb938-066_enterprise_procurement_policy_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Corporate Card Policy V1 Enterprise Corporate Card Policy V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must b",
+    "metadata": {
+      "source": "data/uploads/5ee8a897-4489-4541-a4d1-9fa884155a85-067_enterprise_corporate_card_policy_v1.pdf",
+      "page": 0,
+      "document_name": "067_enterprise_corporate_card_policy_v1.pdf",
+      "chunk_id": "5ee8a897-4489-4541-a4d1-9fa884155a85-067_enterprise_corporate_card_policy_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Petty Cash SOP V1 Enterprise Petty Cash SOP V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/98f5b627-844f-4874-bc27-f01c0f14aae4-068_enterprise_petty_cash_sop_v1.pdf",
+      "page": 0,
+      "document_name": "068_enterprise_petty_cash_sop_v1.pdf",
+      "chunk_id": "98f5b627-844f-4874-bc27-f01c0f14aae4-068_enterprise_petty_cash_sop_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Financial Reporting Calendar V1 Enterprise Financial Reporting Calendar V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written appro",
+    "metadata": {
+      "source": "data/uploads/44753d51-fbe9-4dd7-b1a7-8b7b22697ea1-069_enterprise_financial_reporting_calendar_v1.pdf",
+      "page": 0,
+      "document_name": "069_enterprise_financial_reporting_calendar_v1.pdf",
+      "chunk_id": "44753d51-fbe9-4dd7-b1a7-8b7b22697ea1-069_enterprise_financial_reporting_calendar_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Audit Evidence Checklist V1 Enterprise Audit Evidence Checklist V1 Department: Finance Document Type: Policy Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and ",
+    "metadata": {
+      "source": "data/uploads/e6c9ea1f-9abb-4c34-85d1-3a5fa394dfe7-070_enterprise_audit_evidence_checklist_v1.pdf",
+      "page": 0,
+      "document_name": "070_enterprise_audit_evidence_checklist_v1.pdf",
+      "chunk_id": "e6c9ea1f-9abb-4c34-85d1-3a5fa394dfe7-070_enterprise_audit_evidence_checklist_v1-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Expense Reimbursement Policy V2 Enterprise Expense Reimbursement Policy V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written appro",
+    "metadata": {
+      "source": "data/uploads/42c01a6c-5009-4d51-bd43-17343d94ebb7-071_enterprise_expense_reimbursement_policy_v2.pdf",
+      "page": 0,
+      "document_name": "071_enterprise_expense_reimbursement_policy_v2.pdf",
+      "chunk_id": "42c01a6c-5009-4d51-bd43-17343d94ebb7-071_enterprise_expense_reimbursement_policy_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Vendor Payment SOP V2 Enterprise Vendor Payment SOP V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be reco",
+    "metadata": {
+      "source": "data/uploads/edc1661a-c129-4b8f-a064-ee463181a31a-072_enterprise_vendor_payment_sop_v2.pdf",
+      "page": 0,
+      "document_name": "072_enterprise_vendor_payment_sop_v2.pdf",
+      "chunk_id": "edc1661a-c129-4b8f-a064-ee463181a31a-072_enterprise_vendor_payment_sop_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Invoice Approval Policy V2 Enterprise Invoice Approval Policy V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and mu",
+    "metadata": {
+      "source": "data/uploads/9cc0a3b0-0646-4a86-9955-81b5f5aa542b-073_enterprise_invoice_approval_policy_v2.pdf",
+      "page": 0,
+      "document_name": "073_enterprise_invoice_approval_policy_v2.pdf",
+      "chunk_id": "9cc0a3b0-0646-4a86-9955-81b5f5aa542b-073_enterprise_invoice_approval_policy_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "llow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/9cc0a3b0-0646-4a86-9955-81b5f5aa542b-073_enterprise_invoice_approval_policy_v2.pdf",
+      "page": 0,
+      "document_name": "073_enterprise_invoice_approval_policy_v2.pdf",
+      "chunk_id": "9cc0a3b0-0646-4a86-9955-81b5f5aa542b-073_enterprise_invoice_approval_policy_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Travel Reimbursement Guide V2 Enterprise Travel Reimbursement Guide V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval ",
+    "metadata": {
+      "source": "data/uploads/e2b8ac28-1747-4234-b9d3-29d55f0115f3-074_enterprise_travel_reimbursement_guide_v2.pdf",
+      "page": 0,
+      "document_name": "074_enterprise_travel_reimbursement_guide_v2.pdf",
+      "chunk_id": "e2b8ac28-1747-4234-b9d3-29d55f0115f3-074_enterprise_travel_reimbursement_guide_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "ust follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/e2b8ac28-1747-4234-b9d3-29d55f0115f3-074_enterprise_travel_reimbursement_guide_v2.pdf",
+      "page": 0,
+      "document_name": "074_enterprise_travel_reimbursement_guide_v2.pdf",
+      "chunk_id": "e2b8ac28-1747-4234-b9d3-29d55f0115f3-074_enterprise_travel_reimbursement_guide_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Budget Review Standard V2 Enterprise Budget Review Standard V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must",
+    "metadata": {
+      "source": "data/uploads/77d8c457-cfc9-43fe-a757-cb5d8cb11f24-075_enterprise_budget_review_standard_v2.pdf",
+      "page": 0,
+      "document_name": "075_enterprise_budget_review_standard_v2.pdf",
+      "chunk_id": "77d8c457-cfc9-43fe-a757-cb5d8cb11f24-075_enterprise_budget_review_standard_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "ow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/77d8c457-cfc9-43fe-a757-cb5d8cb11f24-075_enterprise_budget_review_standard_v2.pdf",
+      "page": 0,
+      "document_name": "075_enterprise_budget_review_standard_v2.pdf",
+      "chunk_id": "77d8c457-cfc9-43fe-a757-cb5d8cb11f24-075_enterprise_budget_review_standard_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Procurement Policy V2 Enterprise Procurement Policy V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be reco",
+    "metadata": {
+      "source": "data/uploads/38503dee-b0aa-4a1e-81cb-1bfe842fce6b-076_enterprise_procurement_policy_v2.pdf",
+      "page": 0,
+      "document_name": "076_enterprise_procurement_policy_v2.pdf",
+      "chunk_id": "38503dee-b0aa-4a1e-81cb-1bfe842fce6b-076_enterprise_procurement_policy_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "rocedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/38503dee-b0aa-4a1e-81cb-1bfe842fce6b-076_enterprise_procurement_policy_v2.pdf",
+      "page": 0,
+      "document_name": "076_enterprise_procurement_policy_v2.pdf",
+      "chunk_id": "38503dee-b0aa-4a1e-81cb-1bfe842fce6b-076_enterprise_procurement_policy_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Corporate Card Policy V2 Enterprise Corporate Card Policy V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must b",
+    "metadata": {
+      "source": "data/uploads/e6113959-b9eb-49ee-b8c4-e65c7949e041-077_enterprise_corporate_card_policy_v2.pdf",
+      "page": 0,
+      "document_name": "077_enterprise_corporate_card_policy_v2.pdf",
+      "chunk_id": "e6113959-b9eb-49ee-b8c4-e65c7949e041-077_enterprise_corporate_card_policy_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": " the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/e6113959-b9eb-49ee-b8c4-e65c7949e041-077_enterprise_corporate_card_policy_v2.pdf",
+      "page": 0,
+      "document_name": "077_enterprise_corporate_card_policy_v2.pdf",
+      "chunk_id": "e6113959-b9eb-49ee-b8c4-e65c7949e041-077_enterprise_corporate_card_policy_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Petty Cash SOP V2 Enterprise Petty Cash SOP V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for",
+    "metadata": {
+      "source": "data/uploads/df063620-b7c5-4b50-96e6-67ad7e16b57e-078_enterprise_petty_cash_sop_v2.pdf",
+      "page": 0,
+      "document_name": "078_enterprise_petty_cash_sop_v2.pdf",
+      "chunk_id": "df063620-b7c5-4b50-96e6-67ad7e16b57e-078_enterprise_petty_cash_sop_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": ", managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/df063620-b7c5-4b50-96e6-67ad7e16b57e-078_enterprise_petty_cash_sop_v2.pdf",
+      "page": 0,
+      "document_name": "078_enterprise_petty_cash_sop_v2.pdf",
+      "chunk_id": "df063620-b7c5-4b50-96e6-67ad7e16b57e-078_enterprise_petty_cash_sop_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Financial Reporting Calendar V2 Enterprise Financial Reporting Calendar V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Expense reimbursement claims must be submitted within 30 days of expense date. Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written appro",
+    "metadata": {
+      "source": "data/uploads/e60b342a-761a-4475-990c-0c0235d8aeba-079_enterprise_financial_reporting_calendar_v2.pdf",
+      "page": 0,
+      "document_name": "079_enterprise_financial_reporting_calendar_v2.pdf",
+      "chunk_id": "e60b342a-761a-4475-990c-0c0235d8aeba-079_enterprise_financial_reporting_calendar_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "es must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/e60b342a-761a-4475-990c-0c0235d8aeba-079_enterprise_financial_reporting_calendar_v2.pdf",
+      "page": 0,
+      "document_name": "079_enterprise_financial_reporting_calendar_v2.pdf",
+      "chunk_id": "e60b342a-761a-4475-990c-0c0235d8aeba-079_enterprise_financial_reporting_calendar_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Audit Evidence Checklist V2 Enterprise Audit Evidence Checklist V2 Department: Finance Document Type: Policy Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Finance department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Invoices above 50000 require approval from the department head. Vendor payments are processed every Friday after invoice validation. Corporate card receipts must be uploaded within five working days. Quarterly budget reviews are completed within ten working days after quarter close. Expense reimbursement claims must be submitted within 30 days of expense date. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and ",
+    "metadata": {
+      "source": "data/uploads/f289b175-35ec-4eec-b805-b6c28fd5024c-080_enterprise_audit_evidence_checklist_v2.pdf",
+      "page": 0,
+      "document_name": "080_enterprise_audit_evidence_checklist_v2.pdf",
+      "chunk_id": "f289b175-35ec-4eec-b805-b6c28fd5024c-080_enterprise_audit_evidence_checklist_v2-0",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/f289b175-35ec-4eec-b805-b6c28fd5024c-080_enterprise_audit_evidence_checklist_v2.pdf",
+      "page": 0,
+      "document_name": "080_enterprise_audit_evidence_checklist_v2.pdf",
+      "chunk_id": "f289b175-35ec-4eec-b805-b6c28fd5024c-080_enterprise_audit_evidence_checklist_v2-1",
+      "department": "Finance",
+      "document_type": "Policy",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Project Documentation Standard V1 Enterprise Project Documentation Standard V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document curre",
+    "metadata": {
+      "source": "data/uploads/24347ad7-fef4-47a2-863b-4ea2247484bb-081_enterprise_project_documentation_standard_v1.pdf",
+      "page": 0,
+      "document_name": "081_enterprise_project_documentation_standard_v1.pdf",
+      "chunk_id": "24347ad7-fef4-47a2-863b-4ea2247484bb-081_enterprise_project_documentation_standard_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "re 5:00 PM. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/24347ad7-fef4-47a2-863b-4ea2247484bb-081_enterprise_project_documentation_standard_v1.pdf",
+      "page": 0,
+      "document_name": "081_enterprise_project_documentation_standard_v1.pdf",
+      "chunk_id": "24347ad7-fef4-47a2-863b-4ea2247484bb-081_enterprise_project_documentation_standard_v1-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Project Status Reporting SOP V1 Enterprise Project Status Reporting SOP V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. ",
+    "metadata": {
+      "source": "data/uploads/1610cc10-849d-4ebd-9414-ffa438fbf337-082_enterprise_project_status_reporting_sop_v1.pdf",
+      "page": 0,
+      "document_name": "082_enterprise_project_status_reporting_sop_v1.pdf",
+      "chunk_id": "1610cc10-849d-4ebd-9414-ffa438fbf337-082_enterprise_project_status_reporting_sop_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "y plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/1610cc10-849d-4ebd-9414-ffa438fbf337-082_enterprise_project_status_reporting_sop_v1.pdf",
+      "page": 0,
+      "document_name": "082_enterprise_project_status_reporting_sop_v1.pdf",
+      "chunk_id": "1610cc10-849d-4ebd-9414-ffa438fbf337-082_enterprise_project_status_reporting_sop_v1-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Release Readiness Checklist V1 Enterprise Release Readiness Checklist V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Ex",
+    "metadata": {
+      "source": "data/uploads/0471414b-de43-4b1a-9481-c6872447c16e-083_enterprise_release_readiness_checklist_v1.pdf",
+      "page": 0,
+      "document_name": "083_enterprise_release_readiness_checklist_v1.pdf",
+      "chunk_id": "0471414b-de43-4b1a-9481-c6872447c16e-083_enterprise_release_readiness_checklist_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "ment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/0471414b-de43-4b1a-9481-c6872447c16e-083_enterprise_release_readiness_checklist_v1.pdf",
+      "page": 0,
+      "document_name": "083_enterprise_release_readiness_checklist_v1.pdf",
+      "chunk_id": "0471414b-de43-4b1a-9481-c6872447c16e-083_enterprise_release_readiness_checklist_v1-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Meeting Notes Standard V1 Enterprise Meeting Notes Standard V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions r",
+    "metadata": {
+      "source": "data/uploads/ab6bb3f1-b83b-4202-bbad-f0d56e74d927-084_enterprise_meeting_notes_standard_v1.pdf",
+      "page": 0,
+      "document_name": "084_enterprise_meeting_notes_standard_v1.pdf",
+      "chunk_id": "ab6bb3f1-b83b-4202-bbad-f0d56e74d927-084_enterprise_meeting_notes_standard_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Risk Register Guide V1 Enterprise Risk Register Guide V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require",
+    "metadata": {
+      "source": "data/uploads/6b9ff65a-f873-40f4-aa01-df87fceec187-085_enterprise_risk_register_guide_v1.pdf",
+      "page": 0,
+      "document_name": "085_enterprise_risk_register_guide_v1.pdf",
+      "chunk_id": "6b9ff65a-f873-40f4-aa01-df87fceec187-085_enterprise_risk_register_guide_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Business Continuity Plan V1 Enterprise Business Continuity Plan V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptio",
+    "metadata": {
+      "source": "data/uploads/cd6163d8-af94-4be5-849f-b09f1e3e65af-086_enterprise_business_continuity_plan_v1.pdf",
+      "page": 0,
+      "document_name": "086_enterprise_business_continuity_plan_v1.pdf",
+      "chunk_id": "cd6163d8-af94-4be5-849f-b09f1e3e65af-086_enterprise_business_continuity_plan_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Knowledge Base Article Standard V1 Enterprise Knowledge Base Article Standard V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document cur",
+    "metadata": {
+      "source": "data/uploads/561b13d3-9364-43cc-9b7e-1d7dfb997ab3-087_enterprise_knowledge_base_article_standard_v1.pdf",
+      "page": 0,
+      "document_name": "087_enterprise_knowledge_base_article_standard_v1.pdf",
+      "chunk_id": "561b13d3-9364-43cc-9b7e-1d7dfb997ab3-087_enterprise_knowledge_base_article_standard_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "elivery plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/561b13d3-9364-43cc-9b7e-1d7dfb997ab3-087_enterprise_knowledge_base_article_standard_v1.pdf",
+      "page": 0,
+      "document_name": "087_enterprise_knowledge_base_article_standard_v1.pdf",
+      "chunk_id": "561b13d3-9364-43cc-9b7e-1d7dfb997ab3-087_enterprise_knowledge_base_article_standard_v1-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Stakeholder Communication Plan V1 Enterprise Stakeholder Communication Plan V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document curre",
+    "metadata": {
+      "source": "data/uploads/a4251bbf-46d7-4505-8a0a-c05f0defc646-088_enterprise_stakeholder_communication_plan_v1.pdf",
+      "page": 0,
+      "document_name": "088_enterprise_stakeholder_communication_plan_v1.pdf",
+      "chunk_id": "a4251bbf-46d7-4505-8a0a-c05f0defc646-088_enterprise_stakeholder_communication_plan_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "deployment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/a4251bbf-46d7-4505-8a0a-c05f0defc646-088_enterprise_stakeholder_communication_plan_v1.pdf",
+      "page": 0,
+      "document_name": "088_enterprise_stakeholder_communication_plan_v1.pdf",
+      "chunk_id": "a4251bbf-46d7-4505-8a0a-c05f0defc646-088_enterprise_stakeholder_communication_plan_v1-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Deployment Runbook V1 Enterprise Deployment Runbook V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require w",
+    "metadata": {
+      "source": "data/uploads/0b7a0384-138b-49b5-8d97-ac868060db27-089_enterprise_deployment_runbook_v1.pdf",
+      "page": 0,
+      "document_name": "089_enterprise_deployment_runbook_v1.pdf",
+      "chunk_id": "0b7a0384-138b-49b5-8d97-ac868060db27-089_enterprise_deployment_runbook_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Post Implementation Review V1 Enterprise Post Implementation Review V1 Department: Operations Document Type: Technical Manual Access Level: internal Version: 1.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exce",
+    "metadata": {
+      "source": "data/uploads/73be1700-fc12-4e40-99b8-e4434980f2fa-090_enterprise_post_implementation_review_v1.pdf",
+      "page": 0,
+      "document_name": "090_enterprise_post_implementation_review_v1.pdf",
+      "chunk_id": "73be1700-fc12-4e40-99b8-e4434980f2fa-090_enterprise_post_implementation_review_v1-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "se. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/73be1700-fc12-4e40-99b8-e4434980f2fa-090_enterprise_post_implementation_review_v1.pdf",
+      "page": 0,
+      "document_name": "090_enterprise_post_implementation_review_v1.pdf",
+      "chunk_id": "73be1700-fc12-4e40-99b8-e4434980f2fa-090_enterprise_post_implementation_review_v1-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Project Documentation Standard V2 Enterprise Project Documentation Standard V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document curre",
+    "metadata": {
+      "source": "data/uploads/18fe3167-72f9-48b7-844d-84db81b7f879-091_enterprise_project_documentation_standard_v2.pdf",
+      "page": 0,
+      "document_name": "091_enterprise_project_documentation_standard_v2.pdf",
+      "chunk_id": "18fe3167-72f9-48b7-844d-84db81b7f879-091_enterprise_project_documentation_standard_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "ivery plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/18fe3167-72f9-48b7-844d-84db81b7f879-091_enterprise_project_documentation_standard_v2.pdf",
+      "page": 0,
+      "document_name": "091_enterprise_project_documentation_standard_v2.pdf",
+      "chunk_id": "18fe3167-72f9-48b7-844d-84db81b7f879-091_enterprise_project_documentation_standard_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Project Status Reporting SOP V2 Enterprise Project Status Reporting SOP V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. ",
+    "metadata": {
+      "source": "data/uploads/def735a3-da87-45d7-b05e-2e41c1a246f3-092_enterprise_project_status_reporting_sop_v2.pdf",
+      "page": 0,
+      "document_name": "092_enterprise_project_status_reporting_sop_v2.pdf",
+      "chunk_id": "def735a3-da87-45d7-b05e-2e41c1a246f3-092_enterprise_project_status_reporting_sop_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "oyment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/def735a3-da87-45d7-b05e-2e41c1a246f3-092_enterprise_project_status_reporting_sop_v2.pdf",
+      "page": 0,
+      "document_name": "092_enterprise_project_status_reporting_sop_v2.pdf",
+      "chunk_id": "def735a3-da87-45d7-b05e-2e41c1a246f3-092_enterprise_project_status_reporting_sop_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Release Readiness Checklist V2 Enterprise Release Readiness Checklist V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Ex",
+    "metadata": {
+      "source": "data/uploads/80693af9-f986-4fed-ae4e-26baad3624f7-093_enterprise_release_readiness_checklist_v2.pdf",
+      "page": 0,
+      "document_name": "093_enterprise_release_readiness_checklist_v2.pdf",
+      "chunk_id": "80693af9-f986-4fed-ae4e-26baad3624f7-093_enterprise_release_readiness_checklist_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "tems. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/80693af9-f986-4fed-ae4e-26baad3624f7-093_enterprise_release_readiness_checklist_v2.pdf",
+      "page": 0,
+      "document_name": "093_enterprise_release_readiness_checklist_v2.pdf",
+      "chunk_id": "80693af9-f986-4fed-ae4e-26baad3624f7-093_enterprise_release_readiness_checklist_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Meeting Notes Standard V2 Enterprise Meeting Notes Standard V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions r",
+    "metadata": {
+      "source": "data/uploads/84ab4c37-de84-48fc-8546-1e5b316a125f-094_enterprise_meeting_notes_standard_v2.pdf",
+      "page": 0,
+      "document_name": "094_enterprise_meeting_notes_standard_v2.pdf",
+      "chunk_id": "84ab4c37-de84-48fc-8546-1e5b316a125f-094_enterprise_meeting_notes_standard_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "onsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/84ab4c37-de84-48fc-8546-1e5b316a125f-094_enterprise_meeting_notes_standard_v2.pdf",
+      "page": 0,
+      "document_name": "094_enterprise_meeting_notes_standard_v2.pdf",
+      "chunk_id": "84ab4c37-de84-48fc-8546-1e5b316a125f-094_enterprise_meeting_notes_standard_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Risk Register Guide V2 Enterprise Risk Register Guide V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require",
+    "metadata": {
+      "source": "data/uploads/dfcb9fb0-1dd1-40d8-9c4f-9388ec316c79-095_enterprise_risk_register_guide_v2.pdf",
+      "page": 0,
+      "document_name": "095_enterprise_risk_register_guide_v2.pdf",
+      "chunk_id": "dfcb9fb0-1dd1-40d8-9c4f-9388ec316c79-095_enterprise_risk_register_guide_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "lities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/dfcb9fb0-1dd1-40d8-9c4f-9388ec316c79-095_enterprise_risk_register_guide_v2.pdf",
+      "page": 0,
+      "document_name": "095_enterprise_risk_register_guide_v2.pdf",
+      "chunk_id": "dfcb9fb0-1dd1-40d8-9c4f-9388ec316c79-095_enterprise_risk_register_guide_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Business Continuity Plan V2 Enterprise Business Continuity Plan V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptio",
+    "metadata": {
+      "source": "data/uploads/c89803a9-08c3-4cf8-811a-01846b11b8fe-096_enterprise_business_continuity_plan_v2.pdf",
+      "page": 0,
+      "document_name": "096_enterprise_business_continuity_plan_v2.pdf",
+      "chunk_id": "c89803a9-08c3-4cf8-811a-01846b11b8fe-096_enterprise_business_continuity_plan_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/c89803a9-08c3-4cf8-811a-01846b11b8fe-096_enterprise_business_continuity_plan_v2.pdf",
+      "page": 0,
+      "document_name": "096_enterprise_business_continuity_plan_v2.pdf",
+      "chunk_id": "c89803a9-08c3-4cf8-811a-01846b11b8fe-096_enterprise_business_continuity_plan_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Knowledge Base Article Standard V2 Enterprise Knowledge Base Article Standard V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document cur",
+    "metadata": {
+      "source": "data/uploads/071723f0-963e-44d1-a13c-2b7f95f41251-097_enterprise_knowledge_base_article_standard_v2.pdf",
+      "page": 0,
+      "document_name": "097_enterprise_knowledge_base_article_standard_v2.pdf",
+      "chunk_id": "071723f0-963e-44d1-a13c-2b7f95f41251-097_enterprise_knowledge_base_article_standard_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "n deployment. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/071723f0-963e-44d1-a13c-2b7f95f41251-097_enterprise_knowledge_base_article_standard_v2.pdf",
+      "page": 0,
+      "document_name": "097_enterprise_knowledge_base_article_standard_v2.pdf",
+      "chunk_id": "071723f0-963e-44d1-a13c-2b7f95f41251-097_enterprise_knowledge_base_article_standard_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Stakeholder Communication Plan V2 Enterprise Stakeholder Communication Plan V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document curre",
+    "metadata": {
+      "source": "data/uploads/d8409fa2-4534-4c13-90c1-2f984f205b2c-098_enterprise_stakeholder_communication_plan_v2.pdf",
+      "page": 0,
+      "document_name": "098_enterprise_stakeholder_communication_plan_v2.pdf",
+      "chunk_id": "d8409fa2-4534-4c13-90c1-2f984f205b2c-098_enterprise_stakeholder_communication_plan_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "tion items. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/d8409fa2-4534-4c13-90c1-2f984f205b2c-098_enterprise_stakeholder_communication_plan_v2.pdf",
+      "page": 0,
+      "document_name": "098_enterprise_stakeholder_communication_plan_v2.pdf",
+      "chunk_id": "d8409fa2-4534-4c13-90c1-2f984f205b2c-098_enterprise_stakeholder_communication_plan_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Deployment Runbook V2 Enterprise Deployment Runbook V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Project status reports must be submitted every Friday before 5:00 PM. Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require w",
+    "metadata": {
+      "source": "data/uploads/75387cec-8d62-41e3-b7ee-4a03685633c2-099_enterprise_deployment_runbook_v2.pdf",
+      "page": 0,
+      "document_name": "099_enterprise_deployment_runbook_v2.pdf",
+      "chunk_id": "75387cec-8d62-41e3-b7ee-4a03685633c2-099_enterprise_deployment_runbook_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "ties Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/75387cec-8d62-41e3-b7ee-4a03685633c2-099_enterprise_deployment_runbook_v2.pdf",
+      "page": 0,
+      "document_name": "099_enterprise_deployment_runbook_v2.pdf",
+      "chunk_id": "75387cec-8d62-41e3-b7ee-4a03685633c2-099_enterprise_deployment_runbook_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "Enterprise Post Implementation Review V2 Enterprise Post Implementation Review V2 Department: Operations Document Type: Technical Manual Access Level: internal Version: 2.0 Purpose This document defines operational guidance for the Operations department. It is written for employees, managers, auditors, and support teams who need clear enterprise procedures. Policy Details Every project must maintain a charter, scope statement, risk register, and delivery plan. Release readiness must be approved before production deployment. Meeting notes must include decisions, owners, dates, and action items. Post implementation reviews are completed within seven working days after release. Project status reports must be submitted every Friday before 5:00 PM. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exce",
+    "metadata": {
+      "source": "data/uploads/020c17c4-32b6-4268-bf22-a3947c0e0443-100_enterprise_post_implementation_review_v2.pdf",
+      "page": 0,
+      "document_name": "100_enterprise_post_implementation_review_v2.pdf",
+      "chunk_id": "020c17c4-32b6-4268-bf22-a3947c0e0443-100_enterprise_post_implementation_review_v2-0",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  },
+  {
+    "page_content": "PM. Responsibilities Employees must follow the procedure, managers must review exceptions, and department owners must keep this document current. Exceptions require written approval and must be recorded for audit review. Review Cycle This document is reviewed annually or when a business process, compliance requirement, security requirement, or technology platform changes.",
+    "metadata": {
+      "source": "data/uploads/020c17c4-32b6-4268-bf22-a3947c0e0443-100_enterprise_post_implementation_review_v2.pdf",
+      "page": 0,
+      "document_name": "100_enterprise_post_implementation_review_v2.pdf",
+      "chunk_id": "020c17c4-32b6-4268-bf22-a3947c0e0443-100_enterprise_post_implementation_review_v2-1",
+      "department": "Operations",
+      "document_type": "Technical Manual",
+      "access_level": "internal"
+    }
+  }
+]

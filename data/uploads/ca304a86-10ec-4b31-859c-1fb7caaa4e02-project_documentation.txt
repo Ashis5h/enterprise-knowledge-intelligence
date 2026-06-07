@@ -1,0 +1,12 @@
+Project Documentation Standard
+
+Every enterprise project must maintain a project charter, scope statement, stakeholder list, architecture notes, risk register, and delivery plan.
+
+Project status reports must be submitted every Friday before 5:00 PM. The report should include completed work, upcoming milestones, blockers, risks, decisions required, and dependency updates.
+
+Technical documentation must include system overview, architecture diagram, API contracts, deployment steps, environment variables, monitoring setup, and rollback procedure.
+
+Change requests must be reviewed by the project manager and approved by the change advisory board when the change affects timeline, cost, security, or production stability.
+
+At project closure, the team must submit final documentation, lessons learned, support handover notes, access inventory, and production readiness confirmation.
+

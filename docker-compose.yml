@@ -1,0 +1,74 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: eki
+      POSTGRES_PASSWORD: eki_password
+      POSTGRES_DB: eki
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./infra/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U eki -d eki"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+    env_file:
+      - backend/.env
+    environment:
+      BACKEND_CORS_ORIGINS: '["http://localhost:5173","http://localhost:8000"]'
+      DATABASE_URL: postgresql+psycopg://eki:eki_password@postgres:5432/eki
+      VECTOR_DB_PROVIDER: ${VECTOR_DB_PROVIDER:-chroma}
+      CHROMA_PERSIST_DIR: /app/chroma_store
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-local-hash}
+      PINECONE_EMBEDDING_MODEL: ${PINECONE_EMBEDDING_MODEL:-all-MiniLM-L6-v2}
+      LLM_PROVIDER: ${LLM_PROVIDER:-local}
+      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-llama3.2}
+      PINECONE_API_KEY: ${PINECONE_API_KEY:-}
+      PINECONE_INDEX_NAME: ${PINECONE_INDEX_NAME:-enterprise-knowledge}
+      PINECONE_NAMESPACE: ${PINECONE_NAMESPACE:-enterprise-documents}
+      PINECONE_CLOUD: ${PINECONE_CLOUD:-aws}
+      PINECONE_REGION: ${PINECONE_REGION:-us-east-1}
+      PINECONE_DIMENSION: ${PINECONE_DIMENSION:-384}
+      PINECONE_CREATE_INDEX: ${PINECONE_CREATE_INDEX:-false}
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./backend/chroma_store:/app/chroma_store
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health', timeout=3).read()"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_BASE_URL: http://localhost:8000
+    ports:
+      - "5173:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:

@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+3 0 obj
+<< /Length 1489 >>
+stream
+BT
+/F1 16 Tf
+50 742 Td
+(Enterprise Data Classification Standard V2) Tj
+/F1 10 Tf
+0 -28 Td
+(Enterprise Data Classification Standard V2) Tj
+0 -14 Td
+0 -14 Td
+(Department: Security) Tj
+0 -14 Td
+(Document Type: Policy) Tj
+0 -14 Td
+(Access Level: restricted) Tj
+0 -14 Td
+(Version: 2.0) Tj
+0 -14 Td
+0 -14 Td
+(Purpose) Tj
+0 -14 Td
+(This document defines operational guidance for the Security department. It is written) Tj
+0 -14 Td
+(for employees, managers, auditors, and support teams who need clear enterprise) Tj
+0 -14 Td
+(procedures.) Tj
+0 -14 Td
+0 -14 Td
+(Policy Details) Tj
+0 -14 Td
+(Security incidents must be reported within 30 minutes of discovery.) Tj
+0 -14 Td
+(Multi-factor authentication is mandatory for email, VPN, and cloud systems.) Tj
+0 -14 Td
+(Confidential documents must not be shared using personal email.) Tj
+0 -14 Td
+(USB storage access requires manager approval and business justification.) Tj
+0 -14 Td
+(Access reviews are performed every quarter for privileged accounts.) Tj
+0 -14 Td
+0 -14 Td
+(Responsibilities) Tj
+0 -14 Td
+(Employees must follow the procedure, managers must review exceptions, and department) Tj
+0 -14 Td
+(owners must keep this document current. Exceptions require written approval and must be) Tj
+0 -14 Td
+(recorded for audit review.) Tj
+0 -14 Td
+0 -14 Td
+(Review Cycle) Tj
+0 -14 Td
+(This document is reviewed annually or when a business process, compliance requirement,) Tj
+0 -14 Td
+(security requirement, or technology platform changes.) Tj
+0 -14 Td
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 1 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 1 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000066 00000 n 
+0000000136 00000 n 
+0000001677 00000 n 
+0000001803 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1852
+%%EOF
