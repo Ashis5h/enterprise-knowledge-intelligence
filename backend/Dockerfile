@@ -8,7 +8,8 @@ ENV PYTHONUNBUFFERED=1
 COPY pyproject.toml .
 COPY app ./app
 RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu && \
-    pip install --no-cache-dir -e .
+    pip install --no-cache-dir -e . && \
+    python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
 
 EXPOSE 8000
 
