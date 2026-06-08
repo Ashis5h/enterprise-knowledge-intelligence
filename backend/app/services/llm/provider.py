@@ -38,6 +38,15 @@ def _is_meaningful_question(prompt: str) -> bool:
     # Repeated characters like "kkk", "aaa"
     if re.fullmatch(r"(.)\1+", text.lower()):
         return False
+    # Must contain at least one common English vowel pattern or real word structure
+    words = re.findall(r"[a-zA-Z]+", text.lower())
+    real_words = [w for w in words if re.search(r"[aeiou]", w) or len(w) <= 2]
+    if not real_words:
+        return False
+    # If most words look like gibberish (long consonant clusters), reject
+    gibberish_words = [w for w in words if len(w) >= 4 and not re.search(r"[aeiou]", w)]
+    if len(gibberish_words) >= len(words):
+        return False
     return True
 
 SYSTEM_PROMPT = (
