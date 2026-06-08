@@ -15,10 +15,30 @@ _SMALL_TALK_PATTERNS = {
     r"\b(hi|hello|hey|howdy|hiya)\b": "Hello! I'm your Enterprise Knowledge Assistant. Ask me anything about your company documents.",
     r"\b(how are you|how do you do|how's it going)\b": "I'm ready to help! Ask me anything about your enterprise documents.",
     r"\bthank(s| you)\b": "You're welcome! Let me know if you have more questions.",
-    r"\b(bye|goodbye|see you|cya)\b": "Goodbye! Come back anytime you need help with your documents.",
+    r"\b(bye|goodbye|see you|cya|good night|goodnight|good morning|good afternoon|good evening)\b": "Goodbye! Come back anytime you need help with your documents.",
     r"\bwhat (are|r) you\b": "I'm an Enterprise Knowledge Assistant — I help you find answers from your company's uploaded documents.",
     r"\bwho (are|r) you\b": "I'm your Enterprise Knowledge Assistant, built to answer questions from your organization's documents.",
 }
+
+_NOT_A_QUESTION_RESPONSE = (
+    "I'm your Enterprise Knowledge Assistant. Please ask me a question about your company documents, "
+    "policies, or procedures and I'll find the answer for you."
+)
+
+
+def _is_meaningful_question(prompt: str) -> bool:
+    """Return False for gibberish, single letters, or very short non-question inputs."""
+    text = prompt.strip()
+    # Too short to be a real question
+    if len(text) < 4:
+        return False
+    # Only non-alphabetic characters
+    if not re.search(r"[a-zA-Z]{2,}", text):
+        return False
+    # Repeated characters like "kkk", "aaa"
+    if re.fullmatch(r"(.)\1+", text.lower()):
+        return False
+    return True
 
 SYSTEM_PROMPT = (
     "You are an enterprise knowledge assistant. Answer only from the "
@@ -33,6 +53,8 @@ class LocalLLMProvider:
         small_talk = _check_small_talk(prompt)
         if small_talk:
             return small_talk
+        if not _is_meaningful_question(prompt):
+            return _NOT_A_QUESTION_RESPONSE
         if not context:
             return NO_CONTEXT_RESPONSE
         return _extract_grounded_answer(prompt, context)
@@ -50,6 +72,9 @@ class OllamaLLMProvider:
         small_talk = _check_small_talk(prompt)
         if small_talk:
             return small_talk
+
+        if not _is_meaningful_question(prompt):
+            return _NOT_A_QUESTION_RESPONSE
 
         if not context:
             return NO_CONTEXT_RESPONSE
