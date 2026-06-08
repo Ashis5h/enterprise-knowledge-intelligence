@@ -203,7 +203,7 @@ function ChatPage() {
       setResponse(nextResponse);
       setMessages((current) => [
         {
-          id: crypto.randomUUID(),
+          id: `${Date.now()}-${Math.random().toString(36).slice(2)}`,
           question: askedQuestion,
           mode,
           response: nextResponse,
