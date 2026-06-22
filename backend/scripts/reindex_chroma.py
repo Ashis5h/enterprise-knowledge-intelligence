@@ -9,20 +9,16 @@ Run inside the backend container:
 
 from pathlib import Path
 
-from sqlalchemy import select
-
-from app.db.models import Document as DocumentModel
-from app.db.session import SessionLocal
+from app.services.rag.document_registry import list_document_records
 from app.services.rag.ingestion import _load_document, _split_documents
 from app.services.rag.vector_store import get_vector_store
 
 
 def main() -> None:
-    with SessionLocal() as session:
-        rows = session.execute(select(DocumentModel)).scalars().all()
+    rows = list_document_records()
 
     if not rows:
-        print("No document records found in the database.")
+        print("No document records found.")
         return
 
     vector_store = get_vector_store()
